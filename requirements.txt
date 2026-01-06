@@ -1,0 +1,25 @@
+# Core Python
+python-dateutil>=2.8.2
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Big Data (optional but recommended)
+pyspark>=3.4.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Visualization / BI prep
+matplotlib>=3.7.0
+seaborn>=0.12.2
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0
