@@ -1,0 +1,818 @@
+claim_id,member_id,provider_npi,provider_specialty,provider_state,member_state,service_date,icd10_code,icd10_desc,cpt_code,cpt_desc,place_of_service,allowed_amount,paid_amount,units,service_year,service_month,service_dow,is_weekend,synthetic_label,month
+C100119362,M108857,1000000783,IM,NY,NY,2024-10-07,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,90.57,85.43,1,2024,10,0,0,0,2024-10
+C100274530,M123737,1000001187,FAMILY,NY,NY,2024-01-13,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",22,120.73,116.64,1,2024,1,5,1,0,2024-01
+C100142580,M114308,1000000814,IM,PA,PA,2024-03-20,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,135.97,114.61,1,2024,3,2,0,0,2024-03
+C100318771,M114933,1000000390,FAMILY,NJ,MA,2024-05-15,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,100.82,96.64,1,2024,5,2,0,0,2024-05
+C100317875,M120751,1000001153,FAMILY,NY,NY,2024-01-18,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,14.33,14.19,1,2024,1,3,0,0,2024-01
+C100326429,M123115,1000000756,FAMILY,PA,PA,2024-11-07,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",22,98.75,91.13,1,2024,11,3,0,0,2024-11
+C100120006,M112468,1000000860,IM,NY,NY,2024-05-30,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,88.83,72.58,1,2024,5,3,0,0,2024-05
+C100421898,M100488,1000000814,IM,PA,PA,2024-03-31,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,93.52,78.09,1,2024,3,6,1,0,2024-03
+C100255316,M106917,1000000800,IM,PA,PA,2024-01-04,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,22,19.78,17.37,1,2024,1,3,0,0,2024-01
+C100155024,M106906,1000000240,FAMILY,PA,PA,2024-01-15,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",22,132.17,132.12,1,2024,1,0,0,0,2024-01
+C100038783,M119646,1000001187,FAMILY,NY,CT,2024-01-17,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,99.79,87.77,1,2024,1,2,0,0,2024-01
+C100364377,M101246,1000000860,IM,NY,NY,2024-05-10,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,97.94,95.7,1,2024,5,4,0,0,2024-05
+C100140375,M108582,1000001098,FAMILY,NJ,NJ,2024-08-08,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,122.96,113.23,1,2024,8,3,0,0,2024-08
+C100438661,M102216,1000001105,IM,NY,NY,2024-10-22,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,95.56,85.8,1,2024,10,1,0,0,2024-10
+C100335443,M119829,1000000355,IM,NY,PA,2024-04-24,R07.9,"Chest pain, unspecified",99214,"Office/outpatient visit, est. (higher)",11,173.86,153.93,1,2024,4,2,0,1,2024-04
+C100248616,M108267,1000001153,FAMILY,NY,NY,2024-01-25,E78.5,"Hyperlipidemia, unspecified",83036,Hemoglobin A1c,22,34.64,35.33,1,2024,1,3,0,0,2024-01
+C100224957,M106823,1000000860,IM,NY,NY,2024-05-15,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,85.62,70.64,1,2024,5,2,0,0,2024-05
+C100067554,M108717,1000001098,FAMILY,NJ,NJ,2024-08-30,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,100.08,84.3,1,2024,8,4,0,0,2024-08
+C100309022,M119915,1000000390,FAMILY,NJ,NJ,2024-05-16,R51.9,"Headache, unspecified",80053,Comprehensive metabolic panel,11,27.13,23.41,1,2024,5,3,0,0,2024-05
+C100315182,M106508,1000000724,IM,NY,CT,2024-01-11,I10,Essential (primary) hypertension,83036,Hemoglobin A1c,11,27.03,25.0,1,2024,1,3,0,0,2024-01
+C100085513,M105491,1000000620,FAMILY,NJ,NJ,2024-05-10,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,132.42,127.26,1,2024,5,4,0,0,2024-05
+C100040886,M100591,1000000355,IM,NY,NY,2024-04-22,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",22,95.18,94.25,1,2024,4,0,0,1,2024-04
+C100402475,M118141,1000001187,FAMILY,NY,PA,2024-01-18,J45.909,"Asthma, uncomplicated",80053,Comprehensive metabolic panel,11,28.88,29.11,1,2024,1,3,0,0,2024-01
+C100210681,M100578,1000000558,IM,PA,PA,2024-04-10,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,87.0,65.85,1,2024,4,2,0,0,2024-04
+C100023215,M104239,1000000814,IM,PA,PA,2024-03-05,M25.561,Pain in right knee,99214,"Office/outpatient visit, est. (higher)",11,153.29,149.11,1,2024,3,1,0,0,2024-03
+C100017123,M116269,1000000857,IM,CT,CT,2024-05-16,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,94.12,79.09,1,2024,5,3,0,0,2024-05
+C100192340,M119040,1000001153,FAMILY,NY,NY,2024-01-20,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",22,94.48,94.64,1,2024,1,5,1,0,2024-01
+C100127637,M124006,1000000636,IM,NJ,CT,2024-07-08,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,11,25.78,25.83,1,2024,7,0,0,0,2024-07
+C100127846,M122302,1000000620,FAMILY,NJ,NJ,2024-05-25,J45.909,"Asthma, uncomplicated",80053,Comprehensive metabolic panel,11,17.75,16.68,1,2024,5,5,1,0,2024-05
+C100047480,M109488,1000000520,IM,NY,NY,2024-09-04,E78.5,"Hyperlipidemia, unspecified",83036,Hemoglobin A1c,11,31.4,28.58,1,2024,9,2,0,0,2024-09
+C100144002,M115118,1000000814,IM,PA,NJ,2024-03-30,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,79.79,66.35,1,2024,3,5,1,0,2024-03
+C100366662,M116126,1000000636,IM,NJ,NJ,2024-07-06,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,24.41,24.28,1,2024,7,5,1,0,2024-07
+C100449373,M114299,1000000558,IM,PA,PA,2024-04-24,M54.5,Low back pain,93000,ECG,11,48.17,45.81,1,2024,4,2,0,0,2024-04
+C100145758,M122077,1000000724,IM,NY,MA,2024-01-15,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,80.8,73.68,1,2024,1,0,0,0,2024-01
+C100408817,M102794,1000000860,IM,NY,NY,2024-05-30,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,92.18,75.71,1,2024,5,3,0,0,2024-05
+C100011920,M105526,1000000620,FAMILY,NJ,NJ,2024-05-26,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,89.77,79.7,1,2024,5,6,1,0,2024-05
+C100230364,M117021,1000000022,IM,CT,CT,2024-01-03,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",22,113.63,106.03,1,2024,1,2,0,0,2024-01
+C100428392,M114073,1000001187,FAMILY,NY,NY,2024-01-09,J06.9,"Acute upper respiratory infection, unspecified",81002,Urinalysis,11,7.31,6.78,1,2024,1,1,0,0,2024-01
+C100037915,M113285,1000000131,FAMILY,CT,CT,2024-05-07,M54.5,Low back pain,99213,"Office/outpatient visit, est.",22,85.8,83.02,1,2024,5,1,0,0,2024-05
+C100356665,M114853,1000000823,IM,NJ,CT,2024-04-20,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,11,24.58,23.51,2,2024,4,5,1,0,2024-04
+C100038434,M114714,1000000558,IM,PA,PA,2024-04-04,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,11,29.43,27.11,1,2024,4,3,0,0,2024-04
+C100300869,M109437,1000000669,IM,MA,MA,2024-03-09,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,91.28,89.18,1,2024,3,5,1,0,2024-03
+C100292820,M103122,1000001153,FAMILY,NY,NY,2024-01-31,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,70.78,60.59,1,2024,1,2,0,0,2024-01
+C100084802,M120872,1000000441,IM,MA,MA,2024-08-29,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,123.18,113.09,1,2024,8,3,0,0,2024-08
+C100205641,M100601,1000000520,IM,NY,NY,2024-09-17,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,27.74,24.23,1,2024,9,1,0,0,2024-09
+C100128469,M105223,1000000823,IM,NJ,NJ,2024-04-07,Q90.9,"Down syndrome, unspecified",99213,"Office/outpatient visit, est.",11,101.91,92.09,1,2024,4,6,1,0,2024-04
+C100312254,M114783,1000000823,IM,NJ,NJ,2024-04-01,R51.9,"Headache, unspecified",80053,Comprehensive metabolic panel,11,22.09,18.2,1,2024,4,0,0,0,2024-04
+C100360028,M108369,1000000240,FAMILY,PA,PA,2024-01-31,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,22,31.25,30.52,1,2024,1,2,0,0,2024-01
+C100343204,M117404,1000000669,IM,MA,MA,2024-03-21,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,94.6,92.57,1,2024,3,3,0,0,2024-03
+C100388629,M105684,1000000669,IM,MA,MA,2024-03-20,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,71.15,69.37,1,2024,3,2,0,0,2024-03
+C100415035,M120476,1000000636,IM,NJ,NJ,2024-07-12,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",22,128.72,103.69,1,2024,7,4,0,0,2024-07
+C100289750,M104935,1000000355,IM,NY,NY,2024-04-03,F41.9,"Anxiety disorder, unspecified",80053,Comprehensive metabolic panel,11,24.53,22.71,1,2024,4,2,0,1,2024-04
+C100353012,M100355,1000000131,FAMILY,CT,CT,2024-05-03,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,93.03,83.51,1,2024,5,4,0,0,2024-05
+C100390716,M106073,1000001153,FAMILY,NY,NY,2024-01-23,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,91.94,89.91,1,2024,1,1,0,0,2024-01
+C100174856,M118259,1000000131,FAMILY,CT,CT,2024-05-19,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,87.03,86.51,1,2024,5,6,1,0,2024-05
+C100335552,M100739,1000001187,FAMILY,NY,NY,2024-01-07,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",22,100.9,86.8,1,2024,1,6,1,0,2024-01
+C100214298,M106772,1000000520,IM,NY,NY,2024-09-13,K21.9,GERD without esophagitis,83036,Hemoglobin A1c,11,26.75,25.11,2,2024,9,4,0,0,2024-09
+C100051847,M124407,1000000800,IM,PA,PA,2024-01-13,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,84.38,88.63,1,2024,1,5,1,0,2024-01
+C100372313,M113930,1000000783,IM,NY,NY,2024-10-16,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,18.75,16.01,2,2024,10,2,0,0,2024-10
+C100323079,M110990,1000000860,IM,NY,NY,2024-05-20,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,77.99,77.3,1,2024,5,0,0,0,2024-05
+C100352639,M122215,1000001153,FAMILY,NY,PA,2024-01-12,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",22,89.73,83.04,1,2024,1,4,0,0,2024-01
+C100355508,M115664,1000000131,FAMILY,CT,PA,2024-05-06,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,82.08,78.16,1,2024,5,0,0,0,2024-05
+C100074590,M123682,1000000355,IM,NY,NY,2024-04-28,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",22,83.88,75.67,1,2024,4,6,1,1,2024-04
+C100267212,M104617,1000000814,IM,PA,PA,2024-03-16,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,103.87,96.51,1,2024,3,5,1,0,2024-03
+C100127584,M114477,1000000857,IM,CT,CT,2024-05-26,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,98.27,88.9,1,2024,5,6,1,0,2024-05
+C100100419,M110645,1000000669,IM,MA,CT,2024-03-07,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,107.68,92.26,1,2024,3,3,0,0,2024-03
+C100247482,M122093,1000000800,IM,PA,PA,2024-01-05,G35,Multiple sclerosis,99214,"Office/outpatient visit, est. (higher)",11,157.83,153.59,1,2024,1,4,0,0,2024-01
+C100029379,M100213,1000000823,IM,NJ,NJ,2024-04-13,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,167.01,166.87,1,2024,4,5,1,0,2024-04
+C100057952,M121302,1000000669,IM,MA,MA,2024-03-15,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,109.94,90.2,1,2024,3,4,0,0,2024-03
+C100092571,M115227,1000000800,IM,PA,PA,2024-01-23,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,76.21,80.52,1,2024,1,1,0,0,2024-01
+C100051122,M101772,1000000799,FAMILY,MA,MA,2024-10-03,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,91.41,90.32,1,2024,10,3,0,0,2024-10
+C100291831,M114591,1000000520,IM,NY,NY,2024-09-08,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,84.06,78.57,1,2024,9,6,1,0,2024-09
+C100119971,M105339,1000000636,IM,NJ,NJ,2024-07-30,I10,Essential (primary) hypertension,93000,ECG,22,49.02,41.38,1,2024,7,1,0,0,2024-07
+C100437934,M105236,1000000623,IM,MA,MA,2024-05-17,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,93.15,84.8,1,2024,5,4,0,0,2024-05
+C100020404,M122694,1000000814,IM,PA,PA,2024-03-12,R51.9,"Headache, unspecified",93000,ECG,11,52.51,52.67,1,2024,3,1,0,0,2024-03
+C100018332,M114741,1000000724,IM,NY,NY,2024-01-08,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,90.57,84.4,1,2024,1,0,0,0,2024-01
+C100351895,M119064,1000000860,IM,NY,NY,2024-05-13,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,99.37,83.39,1,2024,5,0,0,0,2024-05
+C100164433,M120835,1000000240,FAMILY,PA,PA,2024-01-22,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,95.29,80.77,1,2024,1,0,0,0,2024-01
+C100192948,M107901,1000000669,IM,MA,NJ,2024-03-24,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,90.84,84.41,1,2024,3,6,1,0,2024-03
+C100359157,M119640,1000000724,IM,NY,NY,2024-01-27,M25.561,Pain in right knee,83036,Hemoglobin A1c,22,31.49,30.63,1,2024,1,5,1,0,2024-01
+C100128447,M120737,1000000558,IM,PA,PA,2024-04-04,D69.6,"Thrombocytopenia, unspecified",83036,Hemoglobin A1c,11,28.15,26.26,1,2024,4,3,0,0,2024-04
+C100309458,M105870,1000000355,IM,NY,NY,2024-04-04,K21.9,GERD without esophagitis,83036,Hemoglobin A1c,22,35.3,32.44,1,2024,4,3,0,1,2024-04
+C100289338,M104454,1000000441,IM,MA,PA,2024-08-08,E11.9,Type 2 diabetes mellitus without complications,93000,ECG,11,62.7,58.17,1,2024,8,3,0,0,2024-08
+C100044965,M101552,1000001187,FAMILY,NY,NY,2024-01-22,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",22,106.28,92.48,1,2024,1,0,0,0,2024-01
+C100047292,M122711,1000000390,FAMILY,NJ,PA,2024-05-24,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,73.66,60.48,1,2024,5,4,0,0,2024-05
+C100419222,M100184,1000000620,FAMILY,NJ,NJ,2024-05-28,E78.5,"Hyperlipidemia, unspecified",99214,"Office/outpatient visit, est. (higher)",11,141.1,119.45,1,2024,5,1,0,0,2024-05
+C100301452,M103306,1000000860,IM,NY,NY,2024-05-04,M25.562,Pain in left knee,99214,"Office/outpatient visit, est. (higher)",11,125.59,120.03,1,2024,5,5,1,0,2024-05
+C100207572,M119297,1000000718,IM,NJ,NJ,2024-06-30,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,81.78,74.59,1,2024,6,6,1,0,2024-06
+C100305018,M112213,1000000441,IM,MA,CT,2024-08-08,K21.9,GERD without esophagitis,83036,Hemoglobin A1c,11,23.48,22.38,2,2024,8,3,0,0,2024-08
+C100152108,M119151,1000001153,FAMILY,NY,NY,2024-01-16,I10,Essential (primary) hypertension,83036,Hemoglobin A1c,11,29.09,25.73,1,2024,1,1,0,0,2024-01
+C100165962,M102089,1000000718,IM,NJ,NJ,2024-06-25,R07.9,"Chest pain, unspecified",99214,"Office/outpatient visit, est. (higher)",11,141.33,126.1,1,2024,6,1,0,0,2024-06
+C100206762,M116611,1000000201,IM,PA,CT,2024-01-19,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,21.49,22.09,1,2024,1,4,0,0,2024-01
+C100372089,M103941,1000000558,IM,PA,PA,2024-04-22,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,78.9,71.34,1,2024,4,0,0,0,2024-04
+C100226081,M110252,1000000389,ORTHO,MA,MA,2024-10-11,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,95.68,75.41,1,2024,10,4,0,0,2024-10
+C100209075,M103922,1000000201,IM,PA,PA,2024-01-19,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,98.94,82.39,1,2024,1,4,0,0,2024-01
+C100286068,M120443,1000001098,FAMILY,NJ,NJ,2024-08-08,R07.9,"Chest pain, unspecified",99214,"Office/outpatient visit, est. (higher)",11,139.07,132.28,1,2024,8,3,0,0,2024-08
+C100180134,M106756,1000001187,FAMILY,NY,CT,2024-01-03,M17.9,"Osteoarthritis of knee, unspecified",80053,Comprehensive metabolic panel,11,27.99,22.59,1,2024,1,2,0,0,2024-01
+C100425504,M123356,1000000800,IM,PA,PA,2024-01-20,M17.9,"Osteoarthritis of knee, unspecified",83036,Hemoglobin A1c,11,25.83,24.73,1,2024,1,5,1,0,2024-01
+C100358328,M119420,1000000669,IM,MA,MA,2024-03-14,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,89.69,87.95,1,2024,3,3,0,0,2024-03
+C100373259,M111481,1000001098,FAMILY,NJ,NJ,2024-08-09,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",22,156.41,152.27,1,2024,8,4,0,0,2024-08
+C100002592,M107401,1000000190,IM,NY,NY,2024-05-21,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,82.17,79.09,1,2024,5,1,0,0,2024-05
+C100031807,M116207,1000000190,IM,NY,NY,2024-05-02,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,167.02,151.86,1,2024,5,3,0,0,2024-05
+C100007374,M110158,1000000295,FAMILY,PA,PA,2024-06-19,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,91.88,83.48,1,2024,6,2,0,0,2024-06
+C100382562,M120266,1000000520,IM,NY,MA,2024-09-10,J45.909,"Asthma, uncomplicated",99214,"Office/outpatient visit, est. (higher)",11,150.15,140.24,1,2024,9,1,0,0,2024-09
+C100386357,M120959,1000000441,IM,MA,NJ,2024-08-15,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,91.96,84.46,1,2024,8,3,0,0,2024-08
+C100391197,M104010,1000000558,IM,PA,NJ,2024-04-29,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",22,138.15,146.07,1,2024,4,0,0,0,2024-04
+C100058332,M102273,1000000860,IM,NY,NY,2024-05-12,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,77.44,73.86,1,2024,5,6,1,0,2024-05
+C100249071,M117518,1000001098,FAMILY,NJ,NJ,2024-08-01,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,90.14,93.65,1,2024,8,3,0,0,2024-08
+C100046896,M112279,1000000201,IM,PA,PA,2024-01-24,R51.9,"Headache, unspecified",80053,Comprehensive metabolic panel,11,25.85,20.75,1,2024,1,2,0,0,2024-01
+C100255005,M111639,1000000240,FAMILY,PA,PA,2024-01-20,M25.561,Pain in right knee,99214,"Office/outpatient visit, est. (higher)",11,129.23,129.17,1,2024,1,5,1,0,2024-01
+C100169318,M115813,1000000201,IM,PA,MA,2024-01-11,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",22,77.72,80.37,1,2024,1,3,0,0,2024-01
+C100129272,M113007,1000001199,FAMILY,NJ,NJ,2024-04-11,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,98.35,97.55,1,2024,4,3,0,0,2024-04
+C100128801,M124007,1000000814,IM,PA,PA,2024-03-25,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,89.33,89.12,1,2024,3,0,0,0,2024-03
+C100369385,M118601,1000000355,IM,NY,MA,2024-04-14,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,105.98,97.29,1,2024,4,6,1,2,2024-04
+C100249165,M114275,1000000201,IM,PA,PA,2024-01-13,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,29.32,24.73,1,2024,1,5,1,0,2024-01
+C100067265,M107913,1000000660,IM,PA,PA,2024-08-30,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,99.26,86.5,1,2024,8,4,0,0,2024-08
+C100051374,M103270,1000000190,IM,NY,NY,2024-05-09,R07.9,"Chest pain, unspecified",99214,"Office/outpatient visit, est. (higher)",11,137.04,117.04,1,2024,5,3,0,0,2024-05
+C100007231,M122209,1000000355,IM,NY,NY,2024-04-03,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,89.1,84.21,1,2024,4,2,0,1,2024-04
+C100426896,M121404,1000001153,FAMILY,NY,NY,2024-01-20,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,147.03,132.53,1,2024,1,5,1,0,2024-01
+C100069482,M118720,1000001153,FAMILY,NY,NY,2024-01-27,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",11,91.03,88.1,1,2024,1,5,1,0,2024-01
+C100167949,M117799,1000000201,IM,PA,NY,2024-01-12,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,68.35,65.86,1,2024,1,4,0,0,2024-01
+C100428277,M110843,1000000240,FAMILY,PA,PA,2024-01-17,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,88.6,77.36,1,2024,1,2,0,0,2024-01
+C100268506,M111516,1000000620,FAMILY,NJ,CT,2024-05-25,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,23.35,23.35,1,2024,5,5,1,0,2024-05
+C100273295,M117083,1000000814,IM,PA,PA,2024-03-14,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",22,85.55,85.07,1,2024,3,3,0,0,2024-03
+C100193640,M123676,1000000558,IM,PA,PA,2024-04-25,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,11,31.02,27.55,2,2024,4,3,0,0,2024-04
+C100394503,M110465,1000000857,IM,CT,CT,2024-05-24,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,66.89,70.18,1,2024,5,4,0,0,2024-05
+C100073767,M119340,1000000240,FAMILY,PA,PA,2024-01-27,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,90.32,87.68,1,2024,1,5,1,0,2024-01
+C100166750,M102178,1000000620,FAMILY,NJ,NJ,2024-05-01,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,101.93,92.19,1,2024,5,2,0,0,2024-05
+C100357043,M103554,1000000369,IM,NY,NY,2024-10-10,C50.919,"Malignant neoplasm of breast, unspecified",99213,"Office/outpatient visit, est.",11,92.98,87.17,1,2024,10,3,0,0,2024-10
+C100016365,M103769,1000000718,IM,NJ,NJ,2024-06-29,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,82.97,77.93,1,2024,6,5,1,0,2024-06
+C100124104,M111956,1000000857,IM,CT,CT,2024-05-07,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",22,102.25,105.21,1,2024,5,1,0,0,2024-05
+C100295569,M121804,1000000558,IM,PA,PA,2024-04-06,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,79.83,78.78,1,2024,4,5,1,0,2024-04
+C100143267,M110256,1000000240,FAMILY,PA,PA,2024-01-08,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,78.16,73.54,1,2024,1,0,0,0,2024-01
+C100441782,M122492,1000000201,IM,PA,PA,2024-01-17,R51.9,"Headache, unspecified",99214,"Office/outpatient visit, est. (higher)",22,167.09,144.78,1,2024,1,2,0,0,2024-01
+C100049317,M113609,1000000520,IM,NY,NY,2024-09-27,E11.9,Type 2 diabetes mellitus without complications,93000,ECG,11,57.17,55.86,1,2024,9,4,0,0,2024-09
+C100134047,M105691,1000000390,FAMILY,NJ,NY,2024-05-03,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,97.38,95.94,1,2024,5,4,0,0,2024-05
+C100264072,M109021,1000000441,IM,MA,MA,2024-08-01,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,101.86,93.85,1,2024,8,3,0,0,2024-08
+C100299399,M115710,1000000620,FAMILY,NJ,NJ,2024-05-14,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,68.99,67.66,1,2024,5,1,0,0,2024-05
+C100089732,M104171,1000000991,FAMILY,NY,NY,2024-03-14,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,98.55,89.93,1,2024,3,3,0,0,2024-03
+C100387155,M101842,1000000190,IM,NY,CT,2024-05-17,C50.919,"Malignant neoplasm of breast, unspecified",83036,Hemoglobin A1c,11,33.17,29.17,1,2024,5,4,0,0,2024-05
+C100376713,M100830,1000000783,IM,NY,NY,2024-10-19,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,23.92,23.28,1,2024,10,5,1,0,2024-10
+C100402144,M124150,1000000390,FAMILY,NJ,NJ,2024-05-03,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,107.74,94.82,1,2024,5,4,0,0,2024-05
+C100130280,M120160,1000000823,IM,NJ,NJ,2024-04-08,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,53.23,49.74,1,2024,4,0,0,0,2024-04
+C100346616,M121007,1000001098,FAMILY,NJ,NJ,2024-08-19,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,93.12,85.34,1,2024,8,0,0,0,2024-08
+C100208319,M120926,1000000441,IM,MA,MA,2024-08-07,M25.562,Pain in left knee,80053,Comprehensive metabolic panel,11,26.89,25.1,1,2024,8,2,0,0,2024-08
+C100308427,M115351,1000000783,IM,NY,NY,2024-10-11,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,97.87,86.03,1,2024,10,4,0,0,2024-10
+C100005091,M106713,1000000558,IM,PA,NY,2024-04-05,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,89.57,80.23,1,2024,4,4,0,0,2024-04
+C100414661,M110063,1000000022,IM,CT,CT,2024-01-16,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,166.52,146.54,1,2024,1,1,0,0,2024-01
+C100063133,M115243,1000000240,FAMILY,PA,PA,2024-01-12,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,102.3,98.57,1,2024,1,4,0,0,2024-01
+C100192637,M114358,1000000022,IM,CT,NY,2024-01-08,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,94.2,89.93,1,2024,1,0,0,0,2024-01
+C100177987,M102938,1000000520,IM,NY,NY,2024-09-25,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,93.02,81.06,1,2024,9,2,0,0,2024-09
+C100365171,M110186,1000000520,IM,NY,NY,2024-09-02,M54.5,Low back pain,83036,Hemoglobin A1c,11,24.46,22.92,2,2024,9,0,0,0,2024-09
+C100150045,M106559,1000000558,IM,PA,MA,2024-04-16,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,114.65,95.81,1,2024,4,1,0,0,2024-04
+C100002093,M115842,1000000814,IM,PA,PA,2024-03-03,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,82.24,76.52,1,2024,3,6,1,0,2024-03
+C100411108,M111063,1000000131,FAMILY,CT,NJ,2024-05-27,J45.909,"Asthma, uncomplicated",80053,Comprehensive metabolic panel,11,30.79,29.73,1,2024,5,0,0,0,2024-05
+C100243380,M112740,1000000860,IM,NY,NY,2024-05-13,M25.562,Pain in left knee,99214,"Office/outpatient visit, est. (higher)",11,138.48,138.19,1,2024,5,0,0,0,2024-05
+C100187507,M104244,1000000814,IM,PA,PA,2024-03-25,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,91.21,85.27,1,2024,3,0,0,0,2024-03
+C100160060,M105741,1000000800,IM,PA,NY,2024-01-06,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,24.41,23.78,1,2024,1,5,1,0,2024-01
+C100126558,M116707,1000000636,IM,NJ,NJ,2024-07-19,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,84.35,76.37,1,2024,7,4,0,0,2024-07
+C100256879,M115486,1000001022,IM,NY,NY,2024-08-24,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,146.01,128.08,1,2024,8,5,1,0,2024-08
+C100447367,M110247,1000000190,IM,NY,NY,2024-05-04,J45.909,"Asthma, uncomplicated",99214,"Office/outpatient visit, est. (higher)",11,184.26,179.49,1,2024,5,5,1,0,2024-05
+C100302439,M113435,1000000800,IM,PA,PA,2024-01-05,R07.9,"Chest pain, unspecified",99214,"Office/outpatient visit, est. (higher)",11,158.44,143.46,1,2024,1,4,0,0,2024-01
+C100382610,M119635,1000000669,IM,MA,MA,2024-03-07,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,11,38.84,34.74,1,2024,3,3,0,0,2024-03
+C100380556,M110817,1000000800,IM,PA,PA,2024-01-18,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,88.44,80.53,1,2024,1,3,0,0,2024-01
+C100258372,M110301,1000000190,IM,NY,CT,2024-05-10,J06.9,"Acute upper respiratory infection, unspecified",93000,ECG,11,46.84,42.91,1,2024,5,4,0,0,2024-05
+C100320481,M111110,1000000800,IM,PA,PA,2024-01-16,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,90.66,90.59,1,2024,1,1,0,0,2024-01
+C100170657,M114384,1000000131,FAMILY,CT,CT,2024-05-19,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,98.05,83.87,1,2024,5,6,1,0,2024-05
+C100429111,M106281,1000000724,IM,NY,NY,2024-01-05,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",22,92.46,79.67,1,2024,1,4,0,0,2024-01
+C100048307,M112916,1000000636,IM,NJ,NJ,2024-07-15,K21.9,GERD without esophagitis,80053,Comprehensive metabolic panel,11,26.34,24.37,1,2024,7,0,0,0,2024-07
+C100088476,M104825,1000001022,IM,NY,NY,2024-08-20,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,98.67,84.91,1,2024,8,1,0,0,2024-08
+C100365423,M124029,1000000520,IM,NY,NJ,2024-09-18,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,75.2,68.61,1,2024,9,2,0,0,2024-09
+C100407693,M120551,1000000800,IM,PA,PA,2024-01-04,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,94.64,75.44,1,2024,1,3,0,0,2024-01
+C100104842,M109515,1000001153,FAMILY,NY,NY,2024-01-01,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,78.68,74.95,1,2024,1,0,0,0,2024-01
+C100190175,M100066,1000000558,IM,PA,PA,2024-04-25,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,90.76,82.62,1,2024,4,3,0,0,2024-04
+C100173777,M116585,1000000441,IM,MA,MA,2024-08-25,M17.9,"Osteoarthritis of knee, unspecified",80053,Comprehensive metabolic panel,11,23.88,25.03,1,2024,8,6,1,0,2024-08
+C100433300,M100273,1000001153,FAMILY,NY,NY,2024-01-07,I10,Essential (primary) hypertension,81002,Urinalysis,11,13.12,11.74,1,2024,1,6,1,0,2024-01
+C100118341,M114998,1000000860,IM,NY,NY,2024-05-07,J45.909,"Asthma, uncomplicated",83036,Hemoglobin A1c,11,28.87,29.77,2,2024,5,1,0,0,2024-05
+C100081634,M112465,1000000860,IM,NY,NY,2024-05-04,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,85.78,69.43,1,2024,5,5,1,0,2024-05
+C100442187,M123583,1000000441,IM,MA,MA,2024-08-02,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,98.56,83.13,1,2024,8,4,0,0,2024-08
+C100196667,M104171,1000000355,IM,NY,NY,2024-04-19,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,81.86,71.7,1,2024,4,4,0,1,2024-04
+C100287105,M111934,1000000823,IM,NJ,NY,2024-04-09,G35,Multiple sclerosis,99213,"Office/outpatient visit, est.",11,70.81,64.37,1,2024,4,1,0,0,2024-04
+C100033852,M121223,1000001187,FAMILY,NY,NY,2024-01-26,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,79.7,69.82,1,2024,1,4,0,0,2024-01
+C100253579,M122888,1000000823,IM,NJ,NJ,2024-04-25,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,134.51,114.7,1,2024,4,3,0,0,2024-04
+C100358289,M124025,1000001098,FAMILY,NJ,NJ,2024-08-31,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,86.93,85.87,1,2024,8,5,1,0,2024-08
+C100224148,M101818,1000000201,IM,PA,PA,2024-01-19,R07.9,"Chest pain, unspecified",99214,"Office/outpatient visit, est. (higher)",11,139.45,137.25,1,2024,1,4,0,0,2024-01
+C100444768,M109700,1000000718,IM,NJ,NJ,2024-06-29,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,105.45,101.92,1,2024,6,5,1,0,2024-06
+C100218889,M102901,1000000636,IM,NJ,NJ,2024-07-22,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,105.66,104.67,1,2024,7,0,0,0,2024-07
+C100204166,M124435,1000001153,FAMILY,NY,NY,2024-01-17,G35,Multiple sclerosis,99213,"Office/outpatient visit, est.",22,90.16,81.16,1,2024,1,2,0,0,2024-01
+C100377394,M112343,1000001098,FAMILY,NJ,NJ,2024-08-23,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",22,82.84,70.96,1,2024,8,4,0,0,2024-08
+C100153556,M106241,1000000621,FAMILY,NY,NY,2024-04-17,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",22,92.28,88.96,1,2024,4,2,0,0,2024-04
+C100036678,M110916,1000000520,IM,NY,NJ,2024-09-18,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,129.2,134.96,1,2024,9,2,0,0,2024-09
+C100340536,M100138,1000000800,IM,PA,PA,2024-01-29,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",22,150.66,150.34,1,2024,1,0,0,0,2024-01
+C100322118,M120843,1000001187,FAMILY,NY,NY,2024-01-24,E78.5,"Hyperlipidemia, unspecified",83036,Hemoglobin A1c,11,27.34,25.25,1,2024,1,2,0,0,2024-01
+C100348042,M108964,1000000022,IM,CT,CT,2024-01-15,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",22,148.9,127.3,1,2024,1,0,0,0,2024-01
+C100136946,M111435,1000001187,FAMILY,NY,NY,2024-01-19,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,146.24,118.79,1,2024,1,4,0,0,2024-01
+C100259562,M107208,1000000857,IM,CT,PA,2024-05-15,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,124.65,107.8,1,2024,5,2,0,0,2024-05
+C100317586,M124992,1000000636,IM,NJ,NJ,2024-07-03,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,102.25,91.19,1,2024,7,2,0,0,2024-07
+C100413745,M107566,1000000669,IM,MA,MA,2024-03-02,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,24.18,21.81,1,2024,3,5,1,0,2024-03
+C100191518,M111574,1000000441,IM,MA,MA,2024-08-08,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,93.25,86.02,1,2024,8,3,0,0,2024-08
+C100401961,M102269,1000000852,IM,NJ,NJ,2024-05-20,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,93.35,84.0,1,2024,5,0,0,0,2024-05
+C100315949,M106518,1000000669,IM,MA,MA,2024-03-31,K21.9,GERD without esophagitis,80053,Comprehensive metabolic panel,11,23.47,22.22,1,2024,3,6,1,0,2024-03
+C100426318,M100097,1000000201,IM,PA,PA,2024-01-16,K21.9,GERD without esophagitis,83036,Hemoglobin A1c,11,34.03,28.37,1,2024,1,1,0,0,2024-01
+C100055260,M104595,1000001153,FAMILY,NY,NY,2024-01-17,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,11,27.22,23.85,1,2024,1,2,0,0,2024-01
+C100260800,M108296,1000000355,IM,NY,NY,2024-04-02,R07.9,"Chest pain, unspecified",80053,Comprehensive metabolic panel,22,21.06,19.75,1,2024,4,1,0,1,2024-04
+C100110412,M107965,1000000131,FAMILY,CT,CT,2024-05-23,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,11,31.42,28.03,2,2024,5,3,0,0,2024-05
+C100241193,M109087,1000000669,IM,MA,MA,2024-03-27,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,139.95,142.85,1,2024,3,2,0,0,2024-03
+C100315721,M119626,1000000201,IM,PA,PA,2024-01-22,F41.9,"Anxiety disorder, unspecified",83036,Hemoglobin A1c,22,31.81,32.24,1,2024,1,0,0,0,2024-01
+C100224691,M108179,1000000240,FAMILY,PA,PA,2024-01-19,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,101.72,86.94,1,2024,1,4,0,0,2024-01
+C100092977,M117294,1000001153,FAMILY,NY,NY,2024-01-08,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,157.9,139.75,1,2024,1,0,0,0,2024-01
+C100041384,M115305,1000000022,IM,CT,CT,2024-01-11,D69.6,"Thrombocytopenia, unspecified",99213,"Office/outpatient visit, est.",11,103.93,99.37,1,2024,1,3,0,0,2024-01
+C100168324,M109672,1000001187,FAMILY,NY,NY,2024-01-26,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,106.28,104.39,1,2024,1,4,0,0,2024-01
+C100080676,M107149,1000000860,IM,NY,NY,2024-05-25,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,22.5,19.94,1,2024,5,5,1,0,2024-05
+C100025791,M120068,1000000201,IM,PA,PA,2024-01-27,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,26.73,25.12,2,2024,1,5,1,0,2024-01
+C100042431,M117803,1000000783,IM,NY,NY,2024-10-23,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,123.71,104.97,1,2024,10,2,0,0,2024-10
+C100213517,M105264,1000000131,FAMILY,CT,CT,2024-05-21,M17.9,"Osteoarthritis of knee, unspecified",36415,Venipuncture,11,5.34,5.01,1,2024,5,1,0,0,2024-05
+C100208586,M105801,1000000814,IM,PA,PA,2024-03-01,M54.5,Low back pain,83036,Hemoglobin A1c,22,30.64,27.23,1,2024,3,4,0,0,2024-03
+C100105643,M122522,1000000275,FAMILY,CT,CT,2024-05-22,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,97.04,92.66,1,2024,5,2,0,0,2024-05
+C100193816,M120159,1000000240,FAMILY,PA,PA,2024-01-20,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,65.5,63.11,1,2024,1,5,1,0,2024-01
+C100082849,M122870,1000000814,IM,PA,NJ,2024-03-03,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,130.13,107.73,1,2024,3,6,1,0,2024-03
+C100050076,M123320,1000000441,IM,MA,MA,2024-08-19,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",22,100.31,90.32,1,2024,8,0,0,0,2024-08
+C100098579,M102925,1000000636,IM,NJ,PA,2024-07-04,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,77.7,75.5,1,2024,7,3,0,0,2024-07
+C100098304,M114850,1000000131,FAMILY,CT,CT,2024-05-07,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",22,80.09,71.26,1,2024,5,1,0,0,2024-05
+C100015228,M111888,1000000857,IM,CT,CT,2024-05-10,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,66.02,53.34,1,2024,5,4,0,0,2024-05
+C100315930,M104688,1000000636,IM,NJ,NJ,2024-07-21,M17.9,"Osteoarthritis of knee, unspecified",83036,Hemoglobin A1c,11,31.1,28.81,1,2024,7,6,1,0,2024-07
+C100118616,M101479,1000000201,IM,PA,PA,2024-01-16,M25.561,Pain in right knee,99214,"Office/outpatient visit, est. (higher)",11,139.01,129.2,1,2024,1,1,0,0,2024-01
+C100194096,M111166,1000000800,IM,PA,PA,2024-01-24,R07.9,"Chest pain, unspecified",99214,"Office/outpatient visit, est. (higher)",11,155.96,134.62,1,2024,1,2,0,0,2024-01
+C100308891,M111664,1000000718,IM,NJ,NJ,2024-06-11,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,83.89,79.93,1,2024,6,1,0,0,2024-06
+C100188517,M117147,1000001098,FAMILY,NJ,NJ,2024-08-08,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,98.23,91.81,1,2024,8,3,0,0,2024-08
+C100084155,M112814,1000000718,IM,NJ,NJ,2024-06-11,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,88.26,72.26,1,2024,6,1,0,0,2024-06
+C100245912,M119490,1000000520,IM,NY,NJ,2024-09-28,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,99.45,100.47,1,2024,9,5,1,0,2024-09
+C100185023,M100996,1000000620,FAMILY,NJ,NJ,2024-05-02,K21.9,GERD without esophagitis,80053,Comprehensive metabolic panel,11,25.95,19.57,1,2024,5,3,0,0,2024-05
+C100085832,M119016,1000001098,FAMILY,NJ,PA,2024-08-05,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,81.49,74.31,1,2024,8,0,0,0,2024-08
+C100280697,M109657,1000000022,IM,CT,CT,2024-01-29,F41.9,"Anxiety disorder, unspecified",93000,ECG,11,45.95,41.77,1,2024,1,0,0,0,2024-01
+C100003672,M113881,1000001098,FAMILY,NJ,NJ,2024-08-19,K21.9,GERD without esophagitis,36415,Venipuncture,11,5.0,4.78,1,2024,8,0,0,0,2024-08
+C100310961,M110707,1000001153,FAMILY,NY,NY,2024-01-03,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,92.39,86.36,1,2024,1,2,0,0,2024-01
+C100226051,M115077,1000000190,IM,NY,NY,2024-05-30,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,146.17,145.96,1,2024,5,3,0,0,2024-05
+C100138646,M118224,1000000724,IM,NY,NY,2024-01-19,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,94.24,83.07,1,2024,1,4,0,0,2024-01
+C100365028,M109794,1000000620,FAMILY,NJ,NJ,2024-05-02,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,85.95,81.56,1,2024,5,3,0,0,2024-05
+C100045366,M111651,1000001153,FAMILY,NY,NY,2024-01-24,M54.5,Low back pain,83036,Hemoglobin A1c,11,28.32,23.1,1,2024,1,2,0,0,2024-01
+C100329416,M105549,1000000800,IM,PA,PA,2024-01-16,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,112.82,97.88,1,2024,1,1,0,0,2024-01
+C100243579,M101411,1000001098,FAMILY,NJ,MA,2024-08-18,M17.9,"Osteoarthritis of knee, unspecified",80053,Comprehensive metabolic panel,11,27.44,23.48,2,2024,8,6,1,0,2024-08
+C100217890,M100461,1000000558,IM,PA,NY,2024-04-29,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",22,106.31,99.94,1,2024,4,0,0,0,2024-04
+C100087283,M116047,1000000190,IM,NY,NY,2024-05-25,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,98.27,84.51,1,2024,5,5,1,2,2024-05
+C100173268,M119840,1000000669,IM,MA,MA,2024-03-09,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",22,98.34,91.01,1,2024,3,5,1,0,2024-03
+C100138109,M114757,1000000022,IM,CT,CT,2024-01-11,R51.9,"Headache, unspecified",83036,Hemoglobin A1c,11,29.55,27.14,1,2024,1,3,0,0,2024-01
+C100130437,M123136,1000000520,IM,NY,NY,2024-09-08,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,106.15,103.6,1,2024,9,6,1,0,2024-09
+C100176502,M114296,1000001022,IM,NY,NJ,2024-08-05,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,102.09,102.42,1,2024,8,0,0,0,2024-08
+C100244829,M115671,1000000783,IM,NY,MA,2024-10-01,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,93.95,88.68,1,2024,10,1,0,0,2024-10
+C100081036,M110447,1000000520,IM,NY,NY,2024-09-12,J45.909,"Asthma, uncomplicated",93000,ECG,11,42.29,41.37,1,2024,9,3,0,0,2024-09
+C100376283,M123086,1000000390,FAMILY,NJ,NJ,2024-05-11,R07.9,"Chest pain, unspecified",83036,Hemoglobin A1c,11,28.38,27.48,1,2024,5,5,1,0,2024-05
+C100183743,M115621,1000000240,FAMILY,PA,PA,2024-01-17,Q90.9,"Down syndrome, unspecified",99213,"Office/outpatient visit, est.",11,75.16,72.34,1,2024,1,2,0,0,2024-01
+C100257045,M110989,1000001022,IM,NY,NY,2024-08-25,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,11,30.64,25.79,1,2024,8,6,1,0,2024-08
+C100449672,M124471,1000000355,IM,NY,NJ,2024-04-24,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,11,32.98,29.04,1,2024,4,2,0,1,2024-04
+C100443601,M112022,1000001047,ORTHO,NY,NY,2024-04-24,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,98.71,96.7,1,2024,4,2,0,0,2024-04
+C100024353,M117882,1000000718,IM,NJ,NJ,2024-06-13,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",22,141.47,123.16,1,2024,6,3,0,0,2024-06
+C100047301,M111719,1000000031,IM,NJ,NJ,2024-07-03,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,97.49,88.17,1,2024,7,2,0,0,2024-07
+C100067525,M102784,1000000669,IM,MA,MA,2024-03-22,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,26.73,26.45,2,2024,3,4,0,0,2024-03
+C100203104,M121163,1000000636,IM,NJ,MA,2024-07-13,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,129.74,109.02,1,2024,7,5,1,0,2024-07
+C100033968,M114097,1000000718,IM,NJ,NJ,2024-06-13,M17.9,"Osteoarthritis of knee, unspecified",80053,Comprehensive metabolic panel,11,17.89,15.97,1,2024,6,3,0,0,2024-06
+C100154729,M104468,1000000131,FAMILY,CT,CT,2024-05-25,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,22,28.7,28.16,1,2024,5,5,1,0,2024-05
+C100201901,M113753,1000000441,IM,MA,MA,2024-08-18,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,89.7,86.72,1,2024,8,6,1,0,2024-08
+C100324323,M121439,1000000022,IM,CT,NJ,2024-01-24,R07.9,"Chest pain, unspecified",83036,Hemoglobin A1c,22,25.12,21.28,2,2024,1,2,0,0,2024-01
+C100012483,M113523,1000001022,IM,NY,NJ,2024-08-01,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",11,128.51,117.55,1,2024,8,3,0,0,2024-08
+C100168485,M124684,1000000131,FAMILY,CT,NY,2024-05-17,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,82.41,75.95,1,2024,5,4,0,0,2024-05
+C100281111,M112189,1000000240,FAMILY,PA,PA,2024-01-31,E78.5,"Hyperlipidemia, unspecified",81002,Urinalysis,22,8.73,8.32,1,2024,1,2,0,0,2024-01
+C100237076,M116316,1000000355,IM,NY,NY,2024-04-27,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,142.69,123.45,1,2024,4,5,1,1,2024-04
+C100031412,M107038,1000000783,IM,NY,NY,2024-10-31,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,87.45,76.37,1,2024,10,3,0,0,2024-10
+C100373966,M107896,1000000390,FAMILY,NJ,NJ,2024-05-10,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,83.17,67.52,1,2024,5,4,0,0,2024-05
+C100438915,M118953,1000001153,FAMILY,NY,NY,2024-01-23,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,135.33,122.01,1,2024,1,1,0,0,2024-01
+C100154707,M119651,1000000800,IM,PA,NY,2024-01-10,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,100.41,81.18,1,2024,1,2,0,0,2024-01
+C100444090,M115432,1000000814,IM,PA,PA,2024-03-06,I10,Essential (primary) hypertension,83036,Hemoglobin A1c,11,33.8,29.09,2,2024,3,2,0,0,2024-03
+C100341748,M122595,1000000718,IM,NJ,NJ,2024-06-21,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,101.7,99.62,1,2024,6,4,0,0,2024-06
+C100195922,M104013,1000000240,FAMILY,PA,PA,2024-01-18,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",22,111.97,95.3,1,2024,1,3,0,0,2024-01
+C100349597,M122568,1000001153,FAMILY,NY,NY,2024-01-02,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,93.03,83.12,1,2024,1,1,0,0,2024-01
+C100008838,M115915,1000000441,IM,MA,MA,2024-08-25,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",11,108.66,105.62,1,2024,8,6,1,0,2024-08
+C100346426,M118721,1000000857,IM,CT,CT,2024-05-21,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,135.42,133.54,1,2024,5,1,0,0,2024-05
+C100339896,M117858,1000000620,FAMILY,NJ,NY,2024-05-09,M17.9,"Osteoarthritis of knee, unspecified",83036,Hemoglobin A1c,22,34.41,34.19,2,2024,5,3,0,2,2024-05
+C100050999,M101150,1000000441,IM,MA,MA,2024-08-11,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,121.05,113.6,1,2024,8,6,1,0,2024-08
+C100036980,M122266,1000000355,IM,NY,NY,2024-04-30,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",11,92.12,84.55,1,2024,4,1,0,2,2024-04
+C100363050,M123524,1000000857,IM,CT,CT,2024-05-21,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,28.15,27.57,1,2024,5,1,0,0,2024-05
+C100173053,M121323,1000000620,FAMILY,NJ,NJ,2024-05-02,G35,Multiple sclerosis,99213,"Office/outpatient visit, est.",11,99.03,94.56,1,2024,5,3,0,0,2024-05
+C100222049,M105873,1000000240,FAMILY,PA,PA,2024-01-15,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,147.59,119.84,1,2024,1,0,0,0,2024-01
+C100263389,M102954,1000000355,IM,NY,NY,2024-04-09,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,87.41,71.88,1,2024,4,1,0,1,2024-04
+C100110617,M111458,1000000783,IM,NY,NY,2024-10-30,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,140.97,139.15,1,2024,10,2,0,0,2024-10
+C100360501,M108902,1000000814,IM,PA,PA,2024-03-05,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,77.79,73.54,1,2024,3,1,0,0,2024-03
+C100389962,M118226,1000000718,IM,NJ,NJ,2024-06-20,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",22,109.88,101.02,1,2024,6,3,0,0,2024-06
+C100132318,M117831,1000000814,IM,PA,PA,2024-03-04,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",22,80.13,73.84,1,2024,3,0,0,0,2024-03
+C100249075,M110923,1000001153,FAMILY,NY,NY,2024-01-29,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,108.56,101.35,1,2024,1,0,0,0,2024-01
+C100303353,M100564,1000000724,IM,NY,PA,2024-01-07,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,109.43,96.3,1,2024,1,6,1,0,2024-01
+C100189209,M104454,1000000558,IM,PA,PA,2024-04-28,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,105.59,96.09,1,2024,4,6,1,0,2024-04
+C100193856,M117376,1000000718,IM,NJ,NJ,2024-06-01,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",22,102.29,102.15,1,2024,6,5,1,0,2024-06
+C100381126,M104384,1000000441,IM,MA,NY,2024-08-26,R07.9,"Chest pain, unspecified",99214,"Office/outpatient visit, est. (higher)",11,127.84,99.88,1,2024,8,0,0,2,2024-08
+C100392478,M104250,1000000520,IM,NY,NY,2024-09-28,I10,Essential (primary) hypertension,93000,ECG,11,49.97,52.62,1,2024,9,5,1,0,2024-09
+C100108356,M117458,1000000131,FAMILY,CT,CT,2024-05-02,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,96.19,95.49,1,2024,5,3,0,0,2024-05
+C100382870,M111081,1000000814,IM,PA,PA,2024-03-07,E11.9,Type 2 diabetes mellitus without complications,93000,ECG,11,34.62,34.75,1,2024,3,3,0,0,2024-03
+C100236764,M124957,1000000620,FAMILY,NJ,NJ,2024-05-30,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",22,134.43,135.32,1,2024,5,3,0,0,2024-05
+C100098179,M111636,1000000355,IM,NY,NY,2024-04-21,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,69.54,71.5,1,2024,4,6,1,1,2024-04
+C100143539,M107819,1000000783,IM,NY,NY,2024-10-02,J45.909,"Asthma, uncomplicated",99214,"Office/outpatient visit, est. (higher)",22,163.61,140.54,1,2024,10,2,0,0,2024-10
+C100307301,M115273,1000000201,IM,PA,PA,2024-01-15,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,98.86,89.43,1,2024,1,0,0,0,2024-01
+C100416277,M103505,1000000190,IM,NY,NY,2024-05-09,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,97.54,83.77,1,2024,5,3,0,0,2024-05
+C100046225,M109514,1000000718,IM,NJ,NJ,2024-06-06,M17.9,"Osteoarthritis of knee, unspecified",83036,Hemoglobin A1c,11,29.41,26.79,1,2024,6,3,0,0,2024-06
+C100292785,M103183,1000000718,IM,NJ,NY,2024-06-27,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,94.93,98.25,1,2024,6,3,0,0,2024-06
+C100335676,M123503,1000000724,IM,NY,MA,2024-01-02,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,117.92,106.89,1,2024,1,1,0,2,2024-01
+C100064740,M114839,1000000823,IM,NJ,NJ,2024-04-11,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",22,91.28,90.15,1,2024,4,3,0,0,2024-04
+C100071259,M100384,1000000823,IM,NJ,NJ,2024-04-30,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,78.8,74.66,1,2024,4,1,0,0,2024-04
+C100281762,M103762,1000000225,IM,NY,NY,2024-04-24,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,92.72,74.23,1,2024,4,2,0,0,2024-04
+C100055664,M123869,1000000190,IM,NY,NY,2024-05-08,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,108.55,98.47,1,2024,5,2,0,0,2024-05
+C100241849,M102803,1000000814,IM,PA,MA,2024-03-10,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,25.96,22.82,2,2024,3,6,1,0,2024-03
+C100053683,M104822,1000000131,FAMILY,CT,CT,2024-05-24,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,25.57,23.59,1,2024,5,4,0,0,2024-05
+C100254137,M107557,1000001098,FAMILY,NJ,NJ,2024-08-11,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,75.18,63.51,1,2024,8,6,1,0,2024-08
+C100439872,M100009,1000001022,IM,NY,NY,2024-08-19,F41.9,"Anxiety disorder, unspecified",93000,ECG,11,43.58,41.59,1,2024,8,0,0,0,2024-08
+C100446023,M124439,1000000669,IM,MA,MA,2024-03-13,E78.5,"Hyperlipidemia, unspecified",93000,ECG,11,37.0,33.07,1,2024,3,2,0,0,2024-03
+C100290529,M111124,1000000718,IM,NJ,NJ,2024-06-20,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,25.3,23.49,1,2024,6,3,0,0,2024-06
+C100372141,M102994,1000001153,FAMILY,NY,NY,2024-01-26,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",11,94.71,86.17,1,2024,1,4,0,0,2024-01
+C100318910,M121347,1000000620,FAMILY,NJ,MA,2024-05-06,C50.919,"Malignant neoplasm of breast, unspecified",99213,"Office/outpatient visit, est.",11,110.41,109.09,1,2024,5,0,0,0,2024-05
+C100007454,M104903,1000000783,IM,NY,NY,2024-10-05,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",22,92.26,88.54,1,2024,10,5,1,0,2024-10
+C100207808,M102575,1000000620,FAMILY,NJ,NJ,2024-05-27,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,22,36.78,37.22,1,2024,5,0,0,0,2024-05
+C100025051,M110563,1000000131,FAMILY,CT,NY,2024-05-31,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",11,141.78,142.31,1,2024,5,4,0,0,2024-05
+C100025026,M113031,1000000558,IM,PA,PA,2024-04-04,K21.9,GERD without esophagitis,80053,Comprehensive metabolic panel,11,27.83,23.81,1,2024,4,3,0,0,2024-04
+C100099884,M112468,1000000355,IM,NY,NY,2024-04-19,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,72.75,66.64,1,2024,4,4,0,1,2024-04
+C100414070,M121488,1000000390,FAMILY,NJ,NJ,2024-05-21,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,22,22.08,20.19,1,2024,5,1,0,0,2024-05
+C100359724,M101461,1000000823,IM,NJ,NJ,2024-04-23,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,20.79,19.27,1,2024,4,1,0,0,2024-04
+C100324114,M116459,1000000022,IM,CT,CT,2024-01-17,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,88.27,79.08,1,2024,1,2,0,0,2024-01
+C100108701,M120893,1000001098,FAMILY,NJ,NJ,2024-08-28,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,28.73,24.07,1,2024,8,2,0,0,2024-08
+C100316008,M107542,1000000441,IM,MA,MA,2024-08-22,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,150.9,144.93,1,2024,8,3,0,0,2024-08
+C100319273,M119095,1000000240,FAMILY,PA,CT,2024-01-25,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,157.23,149.47,1,2024,1,3,0,0,2024-01
+C100108488,M120599,1000000857,IM,CT,MA,2024-05-24,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,76.85,69.6,1,2024,5,4,0,0,2024-05
+C100062855,M105551,1000000505,IM,NY,NY,2024-10-07,M54.5,Low back pain,99213,"Office/outpatient visit, est.",22,92.11,78.43,1,2024,10,0,0,0,2024-10
+C100330065,M123668,1000000022,IM,CT,CT,2024-01-31,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,96.13,88.74,1,2024,1,2,0,0,2024-01
+C100149377,M113586,1000000669,IM,MA,MA,2024-03-26,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,66.25,61.49,1,2024,3,1,0,0,2024-03
+C100210197,M101920,1000000783,IM,NY,NY,2024-10-07,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,99.28,86.27,1,2024,10,0,0,0,2024-10
+C100278292,M121884,1000001187,FAMILY,NY,NY,2024-01-26,M54.5,Low back pain,99213,"Office/outpatient visit, est.",22,89.46,86.93,1,2024,1,4,0,0,2024-01
+C100008513,M118512,1000001022,IM,NY,NY,2024-08-30,J45.909,"Asthma, uncomplicated",83036,Hemoglobin A1c,11,33.28,27.68,1,2024,8,4,0,0,2024-08
+C100002122,M118605,1000001022,IM,NY,NY,2024-08-13,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,22,23.06,21.68,1,2024,8,1,0,0,2024-08
+C100411571,M118159,1000000724,IM,NY,PA,2024-01-08,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,163.17,158.42,1,2024,1,0,0,0,2024-01
+C100149309,M108495,1000000520,IM,NY,NY,2024-09-15,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,91.0,76.11,1,2024,9,6,1,0,2024-09
+C100214836,M110312,1000000190,IM,NY,NY,2024-05-25,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,31.3,25.08,1,2024,5,5,1,0,2024-05
+C100257307,M124758,1000001187,FAMILY,NY,NY,2024-01-18,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,14.46,12.52,1,2024,1,3,0,0,2024-01
+C100198833,M101123,1000000390,FAMILY,NJ,NJ,2024-05-20,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,85.36,76.38,1,2024,5,0,0,0,2024-05
+C100284689,M100647,1000000201,IM,PA,PA,2024-01-13,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,75.12,72.8,1,2024,1,5,1,0,2024-01
+C100246212,M121914,1000000636,IM,NJ,NJ,2024-07-23,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",22,92.59,90.69,1,2024,7,1,0,0,2024-07
+C100216233,M124731,1000000718,IM,NJ,NJ,2024-06-04,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,71.77,61.0,1,2024,6,1,0,0,2024-06
+C100202416,M116784,1000000783,IM,NY,NY,2024-10-06,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",22,105.98,94.18,1,2024,10,6,1,0,2024-10
+C100187699,M122897,1000000355,IM,NY,NY,2024-04-12,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,50.81,46.24,1,2024,4,4,0,1,2024-04
+C100390487,M101787,1000001087,FAMILY,PA,PA,2024-04-24,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,91.88,84.67,1,2024,4,2,0,0,2024-04
+C100005327,M121090,1000000718,IM,NJ,NJ,2024-06-11,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,70.48,62.14,1,2024,6,1,0,0,2024-06
+C100143544,M108544,1000000636,IM,NJ,NJ,2024-07-16,R51.9,"Headache, unspecified",99214,"Office/outpatient visit, est. (higher)",11,133.31,132.92,1,2024,7,1,0,0,2024-07
+C100010969,M116415,1000000860,IM,NY,NJ,2024-05-22,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,79.17,68.71,1,2024,5,2,0,0,2024-05
+C100131202,M122271,1000000558,IM,PA,PA,2024-04-05,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,76.93,74.09,1,2024,4,4,0,0,2024-04
+C100377842,M101211,1000000857,IM,CT,CT,2024-05-29,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",22,101.84,105.68,1,2024,5,2,0,0,2024-05
+C100401749,M102453,1000000800,IM,PA,PA,2024-01-04,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,87.44,71.97,1,2024,1,3,0,0,2024-01
+C100313656,M108752,1000000704,FAMILY,NY,NY,2024-06-06,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,97.54,79.99,1,2024,6,3,0,0,2024-06
+C100267073,M118556,1000000823,IM,NJ,NJ,2024-04-08,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,77.6,62.39,1,2024,4,0,0,0,2024-04
+C100194595,M112096,1000000441,IM,MA,MA,2024-08-13,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,11,27.72,23.32,1,2024,8,1,0,0,2024-08
+C100396706,M113034,1000000724,IM,NY,MA,2024-01-29,E78.5,"Hyperlipidemia, unspecified",93000,ECG,11,50.31,43.33,1,2024,1,0,0,0,2024-01
+C100123861,M116538,1000000860,IM,NY,NY,2024-05-28,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,17.73,15.72,2,2024,5,1,0,0,2024-05
+C100139328,M105158,1000000823,IM,NJ,NJ,2024-04-15,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,111.15,100.25,1,2024,4,0,0,0,2024-04
+C100055728,M100925,1000000669,IM,MA,MA,2024-03-08,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,99.99,104.2,1,2024,3,4,0,0,2024-03
+C100235139,M100406,1000000724,IM,NY,NY,2024-01-16,R07.9,"Chest pain, unspecified",93000,ECG,11,46.65,36.63,1,2024,1,1,0,0,2024-01
+C100257019,M115781,1000000669,IM,MA,MA,2024-03-15,M25.561,Pain in right knee,83036,Hemoglobin A1c,11,29.47,27.26,2,2024,3,4,0,0,2024-03
+C100300512,M108992,1000000201,IM,PA,PA,2024-01-30,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,18.99,15.72,1,2024,1,1,0,0,2024-01
+C100165820,M120156,1000000823,IM,NJ,NJ,2024-04-15,E78.5,"Hyperlipidemia, unspecified",83036,Hemoglobin A1c,11,23.16,22.38,1,2024,4,0,0,0,2024-04
+C100111924,M113793,1000000718,IM,NJ,NJ,2024-06-13,J45.909,"Asthma, uncomplicated",93000,ECG,11,48.29,42.45,1,2024,6,3,0,0,2024-06
+C100303675,M101771,1000000329,FAMILY,PA,MA,2024-08-13,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,92.63,85.87,1,2024,8,1,0,1,2024-08
+C100232029,M120452,1000000857,IM,CT,CT,2024-05-30,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,76.88,69.3,1,2024,5,3,0,0,2024-05
+C100091963,M110863,1000000823,IM,NJ,NJ,2024-04-29,I10,Essential (primary) hypertension,93000,ECG,11,55.05,53.36,1,2024,4,0,0,0,2024-04
+C100046831,M110074,1000000800,IM,PA,PA,2024-01-02,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",22,83.52,76.04,1,2024,1,1,0,0,2024-01
+C100265947,M124316,1000001187,FAMILY,NY,NY,2024-01-17,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",22,91.02,89.3,1,2024,1,2,0,0,2024-01
+C100295655,M123562,1000000636,IM,NJ,NJ,2024-07-15,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",22,96.31,86.87,1,2024,7,0,0,0,2024-07
+C100160691,M101169,1000000800,IM,PA,PA,2024-01-04,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,88.66,75.79,1,2024,1,3,0,0,2024-01
+C100041276,M112560,1000000636,IM,NJ,MA,2024-07-21,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,22,28.64,30.17,1,2024,7,6,1,0,2024-07
+C100303184,M109361,1000000783,IM,NY,PA,2024-10-11,M17.9,"Osteoarthritis of knee, unspecified",83036,Hemoglobin A1c,11,32.39,29.38,1,2024,10,4,0,0,2024-10
+C100114765,M102041,1000000201,IM,PA,MA,2024-01-16,E78.5,"Hyperlipidemia, unspecified",93000,ECG,22,45.5,41.59,1,2024,1,1,0,0,2024-01
+C100158459,M122263,1000001022,IM,NY,NY,2024-08-13,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,128.61,117.23,1,2024,8,1,0,0,2024-08
+C100298243,M124275,1000000823,IM,NJ,NJ,2024-04-27,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,116.57,104.98,1,2024,4,5,1,0,2024-04
+C100139205,M122698,1000000783,IM,NY,NY,2024-10-16,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",22,162.9,166.42,1,2024,10,2,0,0,2024-10
+C100053268,M104918,1000000814,IM,PA,PA,2024-03-07,R07.9,"Chest pain, unspecified",93000,ECG,11,57.43,53.85,1,2024,3,3,0,0,2024-03
+C100397854,M113358,1000000724,IM,NY,PA,2024-01-21,R07.9,"Chest pain, unspecified",80053,Comprehensive metabolic panel,22,32.82,34.46,1,2024,1,6,1,0,2024-01
+C100072826,M117902,1000000190,IM,NY,NY,2024-05-01,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,11,26.85,25.8,1,2024,5,2,0,0,2024-05
+C100077691,M100871,1000000814,IM,PA,PA,2024-03-13,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,64.34,54.34,1,2024,3,2,0,0,2024-03
+C100387181,M103512,1000000240,FAMILY,PA,PA,2024-01-28,F41.9,"Anxiety disorder, unspecified",80053,Comprehensive metabolic panel,11,22.93,19.94,1,2024,1,6,1,0,2024-01
+C100167915,M122730,1000000131,FAMILY,CT,MA,2024-05-16,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,144.4,129.44,1,2024,5,3,0,0,2024-05
+C100140251,M105310,1000000783,IM,NY,NY,2024-10-29,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,104.48,103.12,1,2024,10,1,0,0,2024-10
+C100001879,M106208,1000000520,IM,NY,NY,2024-09-12,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,81.69,68.01,1,2024,9,3,0,0,2024-09
+C100400968,M120730,1000000998,IM,NJ,NJ,2024-08-01,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",22,92.82,92.55,1,2024,8,3,0,0,2024-08
+C100223554,M123089,1000000857,IM,CT,NY,2024-05-29,E11.9,Type 2 diabetes mellitus without complications,93000,ECG,11,50.69,48.3,1,2024,5,2,0,0,2024-05
+C100411166,M124839,1000000724,IM,NY,NY,2024-01-28,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,150.17,129.64,1,2024,1,6,1,0,2024-01
+C100136894,M121651,1000001080,FAMILY,PA,PA,2024-09-20,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,96.36,83.32,1,2024,9,4,0,0,2024-09
+C100163036,M112221,1000000022,IM,CT,CT,2024-01-18,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,99.5,87.89,1,2024,1,3,0,0,2024-01
+C100364530,M104799,1000000620,FAMILY,NJ,NJ,2024-05-20,E78.5,"Hyperlipidemia, unspecified",81002,Urinalysis,22,13.52,11.45,1,2024,5,0,0,0,2024-05
+C100072246,M109257,1000000620,FAMILY,NJ,NJ,2024-05-15,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,100.27,95.03,1,2024,5,2,0,0,2024-05
+C100135123,M111998,1000000240,FAMILY,PA,PA,2024-01-20,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,94.35,92.93,1,2024,1,5,1,0,2024-01
+C100334631,M113398,1000000520,IM,NY,MA,2024-09-26,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,92.33,83.65,1,2024,9,3,0,2,2024-09
+C100247589,M108993,1000000724,IM,NY,NY,2024-01-09,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,94.89,85.56,1,2024,1,1,0,0,2024-01
+C100256457,M105882,1000000857,IM,CT,CT,2024-05-12,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,100.22,100.7,1,2024,5,6,1,0,2024-05
+C100159573,M113742,1000000636,IM,NJ,NJ,2024-07-29,Q90.9,"Down syndrome, unspecified",99214,"Office/outpatient visit, est. (higher)",11,166.19,148.9,1,2024,7,0,0,0,2024-07
+C100184465,M109929,1000000620,FAMILY,NJ,NJ,2024-05-23,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",22,80.61,73.73,1,2024,5,3,0,0,2024-05
+C100150798,M102392,1000000475,FAMILY,MA,MA,2024-08-16,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,98.03,84.76,1,2024,8,4,0,0,2024-08
+C100087167,M114836,1000000724,IM,NY,NY,2024-01-23,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,99.77,89.28,1,2024,1,1,0,0,2024-01
+C100341304,M108474,1000000558,IM,PA,PA,2024-04-22,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",22,158.02,143.73,1,2024,4,0,0,0,2024-04
+C100299749,M117505,1000000390,FAMILY,NJ,NJ,2024-05-16,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,101.57,92.89,1,2024,5,3,0,0,2024-05
+C100430185,M117327,1000001098,FAMILY,NJ,NJ,2024-08-08,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,94.82,100.67,1,2024,8,3,0,0,2024-08
+C100346488,M116915,1000000390,FAMILY,NJ,NJ,2024-05-08,J06.9,"Acute upper respiratory infection, unspecified",81002,Urinalysis,22,10.17,9.59,2,2024,5,2,0,0,2024-05
+C100210813,M118663,1000000724,IM,NY,NY,2024-01-08,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,116.28,114.81,1,2024,1,0,0,0,2024-01
+C100155585,M121167,1000000022,IM,CT,CT,2024-01-02,J06.9,"Acute upper respiratory infection, unspecified",93000,ECG,11,46.33,43.12,1,2024,1,1,0,0,2024-01
+C100379326,M113014,1000000860,IM,NY,NY,2024-05-03,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,125.86,117.15,1,2024,5,4,0,0,2024-05
+C100175911,M123796,1000000857,IM,CT,CT,2024-05-19,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,139.66,109.92,1,2024,5,6,1,0,2024-05
+C100176994,M120265,1000001098,FAMILY,NJ,NJ,2024-08-02,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,153.66,131.14,1,2024,8,4,0,0,2024-08
+C100389449,M101268,1000000355,IM,NY,CT,2024-04-06,F41.9,"Anxiety disorder, unspecified",83036,Hemoglobin A1c,11,35.53,34.99,2,2024,4,5,1,1,2024-04
+C100028553,M123416,1000001187,FAMILY,NY,NY,2024-01-01,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,161.47,164.13,1,2024,1,0,0,0,2024-01
+C100200908,M124024,1000000022,IM,CT,CT,2024-01-21,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,88.91,82.0,1,2024,1,6,1,0,2024-01
+C100211235,M104678,1000000190,IM,NY,CT,2024-05-25,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",22,160.75,145.81,1,2024,5,5,1,0,2024-05
+C100310287,M112836,1000000390,FAMILY,NJ,NJ,2024-05-04,E78.5,"Hyperlipidemia, unspecified",83036,Hemoglobin A1c,11,20.29,16.9,1,2024,5,5,1,0,2024-05
+C100152549,M106246,1000000520,IM,NY,NY,2024-09-25,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",22,92.72,84.61,1,2024,9,2,0,0,2024-09
+C100119135,M113318,1000000131,FAMILY,CT,PA,2024-05-10,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",11,84.84,75.75,1,2024,5,4,0,0,2024-05
+C100448249,M109318,1000000989,FAMILY,PA,PA,2024-04-09,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",22,96.56,84.33,1,2024,4,1,0,0,2024-04
+C100393831,M117000,1000000718,IM,NJ,NJ,2024-06-27,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,79.73,75.2,1,2024,6,3,0,0,2024-06
+C100066577,M110734,1000000636,IM,NJ,NJ,2024-07-24,M17.9,"Osteoarthritis of knee, unspecified",80053,Comprehensive metabolic panel,11,28.17,24.4,1,2024,7,2,0,0,2024-07
+C100036101,M106370,1000000240,FAMILY,PA,NY,2024-01-04,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",22,102.6,92.36,1,2024,1,3,0,2,2024-01
+C100354738,M123175,1000000520,IM,NY,PA,2024-09-28,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,89.62,82.39,1,2024,9,5,1,0,2024-09
+C100257808,M106519,1000000240,FAMILY,PA,PA,2024-01-09,E11.9,Type 2 diabetes mellitus without complications,81002,Urinalysis,11,9.83,9.48,1,2024,1,1,0,0,2024-01
+C100060661,M106833,1000000558,IM,PA,PA,2024-04-19,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",22,97.66,103.22,1,2024,4,4,0,0,2024-04
+C100284193,M119342,1000000620,FAMILY,NJ,CT,2024-05-04,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,101.01,102.74,1,2024,5,5,1,0,2024-05
+C100424666,M122570,1000000022,IM,CT,CT,2024-01-11,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,92.23,89.66,1,2024,1,3,0,0,2024-01
+C100345489,M118145,1000000201,IM,PA,PA,2024-01-09,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,27.3,25.61,2,2024,1,1,0,0,2024-01
+C100406848,M104810,1000001022,IM,NY,MA,2024-08-08,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,86.67,82.04,1,2024,8,3,0,2,2024-08
+C100109543,M122456,1000000636,IM,NJ,CT,2024-07-30,M25.561,Pain in right knee,83036,Hemoglobin A1c,11,29.22,28.66,1,2024,7,1,0,0,2024-07
+C100174134,M111047,1000000390,FAMILY,NJ,NJ,2024-05-27,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,68.87,58.76,1,2024,5,0,0,0,2024-05
+C100353494,M101093,1000000857,IM,CT,CT,2024-05-10,I10,Essential (primary) hypertension,83036,Hemoglobin A1c,11,30.62,26.62,1,2024,5,4,0,0,2024-05
+C100284176,M109115,1000000669,IM,MA,NJ,2024-03-06,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,92.91,78.56,1,2024,3,2,0,0,2024-03
+C100188780,M122342,1000000667,FAMILY,CT,CT,2024-05-09,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,91.82,83.02,1,2024,5,3,0,0,2024-05
+C100088607,M112425,1000000783,IM,NY,PA,2024-10-07,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,110.21,100.73,1,2024,10,0,0,0,2024-10
+C100076668,M116280,1000000718,IM,NJ,NJ,2024-06-10,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,73.0,68.66,1,2024,6,0,0,0,2024-06
+C100015027,M113555,1000000968,FAMILY,CT,NJ,2024-07-12,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,95.94,101.01,1,2024,7,4,0,0,2024-07
+C100410133,M106631,1000000240,FAMILY,PA,PA,2024-01-26,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,151.56,132.84,1,2024,1,4,0,0,2024-01
+C100112620,M105202,1000000201,IM,PA,PA,2024-01-22,M25.562,Pain in left knee,93000,ECG,11,44.09,37.69,1,2024,1,0,0,0,2024-01
+C100338999,M108640,1000000201,IM,PA,PA,2024-01-10,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",22,77.89,68.98,1,2024,1,2,0,0,2024-01
+C100030652,M118487,1000000800,IM,PA,PA,2024-01-19,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,80.5,83.15,1,2024,1,4,0,0,2024-01
+C100274015,M111311,1000000860,IM,NY,MA,2024-05-22,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,78.03,74.16,1,2024,5,2,0,0,2024-05
+C100380377,M119773,1000000871,FAMILY,NJ,NJ,2024-12-03,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,92.57,82.64,1,2024,12,1,0,0,2024-12
+C100275494,M114840,1000000636,IM,NJ,NJ,2024-07-16,M54.5,Low back pain,93000,ECG,11,50.89,51.52,1,2024,7,1,0,0,2024-07
+C100187335,M101954,1000000131,FAMILY,CT,NJ,2024-05-22,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,83.31,73.18,1,2024,5,2,0,0,2024-05
+C100203979,M119509,1000000520,IM,NY,MA,2024-09-16,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",22,121.32,107.41,1,2024,9,0,0,0,2024-09
+C100444230,M124776,1000000131,FAMILY,CT,CT,2024-05-23,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,127.66,118.29,1,2024,5,3,0,0,2024-05
+C100086910,M118171,1000000724,IM,NY,NY,2024-01-29,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,69.66,68.09,1,2024,1,0,0,0,2024-01
+C100210822,M123016,1000001098,FAMILY,NJ,NJ,2024-08-12,M25.561,Pain in right knee,83036,Hemoglobin A1c,11,33.0,28.8,1,2024,8,0,0,0,2024-08
+C100086399,M102565,1000000190,IM,NY,NY,2024-05-13,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,103.5,99.97,1,2024,5,0,0,0,2024-05
+C100226381,M121982,1000000814,IM,PA,PA,2024-03-27,E78.5,"Hyperlipidemia, unspecified",99214,"Office/outpatient visit, est. (higher)",11,158.54,156.24,1,2024,3,2,0,0,2024-03
+C100154274,M114898,1000001098,FAMILY,NJ,NJ,2024-08-15,N39.0,"UTI, site not specified",80053,Comprehensive metabolic panel,11,25.51,25.37,1,2024,8,3,0,0,2024-08
+C100185502,M123576,1000000860,IM,NY,MA,2024-05-17,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",22,90.14,84.51,1,2024,5,4,0,0,2024-05
+C100009120,M102082,1000000441,IM,MA,MA,2024-08-06,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,108.43,90.5,1,2024,8,1,0,0,2024-08
+C100103644,M122896,1000000814,IM,PA,PA,2024-03-15,E78.5,"Hyperlipidemia, unspecified",99214,"Office/outpatient visit, est. (higher)",11,153.57,148.83,1,2024,3,4,0,0,2024-03
+C100381599,M107281,1000000724,IM,NY,PA,2024-01-09,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,68.24,63.37,1,2024,1,1,0,0,2024-01
+C100178702,M108969,1000000022,IM,CT,CT,2024-01-21,M54.5,Low back pain,99213,"Office/outpatient visit, est.",22,76.02,72.87,1,2024,1,6,1,0,2024-01
+C100222510,M102493,1000000131,FAMILY,CT,CT,2024-05-16,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,98.59,88.75,1,2024,5,3,0,0,2024-05
+C100447970,M120112,1000000190,IM,NY,NY,2024-05-07,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,90.37,90.49,1,2024,5,1,0,0,2024-05
+C100007623,M123599,1000000860,IM,NY,NY,2024-05-27,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",22,106.61,103.08,1,2024,5,0,0,0,2024-05
+C100234044,M122152,1000000669,IM,MA,MA,2024-03-27,R51.9,"Headache, unspecified",99214,"Office/outpatient visit, est. (higher)",11,162.82,159.19,1,2024,3,2,0,0,2024-03
+C100234049,M107794,1000001098,FAMILY,NJ,NY,2024-08-28,M54.5,Low back pain,99213,"Office/outpatient visit, est.",22,105.14,86.67,1,2024,8,2,0,0,2024-08
+C100174177,M108807,1000000857,IM,CT,CT,2024-05-08,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,25.17,22.23,2,2024,5,2,0,0,2024-05
+C100204120,M108784,1000000718,IM,NJ,NJ,2024-06-03,E11.9,Type 2 diabetes mellitus without complications,93000,ECG,11,63.99,58.53,1,2024,6,0,0,0,2024-06
+C100012736,M114837,1000000520,IM,NY,NY,2024-09-10,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,87.54,77.41,1,2024,9,1,0,0,2024-09
+C100363242,M107615,1000000636,IM,NJ,NJ,2024-07-01,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,89.24,77.46,1,2024,7,0,0,0,2024-07
+C100101295,M117916,1000000190,IM,NY,NY,2024-05-12,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,21.14,20.61,1,2024,5,6,1,0,2024-05
+C100022334,M106663,1000000783,IM,NY,NY,2024-10-22,R51.9,"Headache, unspecified",93000,ECG,11,40.39,39.67,1,2024,10,1,0,0,2024-10
+C100107325,M122119,1000001187,FAMILY,NY,NY,2024-01-10,I10,Essential (primary) hypertension,81002,Urinalysis,11,10.71,10.2,1,2024,1,2,0,0,2024-01
+C100142999,M114139,1000000860,IM,NY,NY,2024-05-13,D69.6,"Thrombocytopenia, unspecified",99213,"Office/outpatient visit, est.",11,100.37,81.46,1,2024,5,0,0,0,2024-05
+C100172878,M111463,1000000520,IM,NY,NY,2024-09-21,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,81.2,67.17,1,2024,9,5,1,0,2024-09
+C100391586,M111154,1000000814,IM,PA,PA,2024-03-16,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,102.76,89.26,1,2024,3,5,1,0,2024-03
+C100240882,M107102,1000000240,FAMILY,PA,PA,2024-01-23,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,61.5,61.02,1,2024,1,1,0,0,2024-01
+C100323594,M122312,1000000390,FAMILY,NJ,NJ,2024-05-13,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,137.96,140.15,1,2024,5,0,0,0,2024-05
+C100159039,M113542,1000000520,IM,NY,CT,2024-09-26,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,97.73,84.54,1,2024,9,3,0,0,2024-09
+C100359181,M120164,1000000814,IM,PA,PA,2024-03-27,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,98.38,88.23,1,2024,3,2,0,0,2024-03
+C100092535,M108771,1000000190,IM,NY,NY,2024-05-15,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,81.64,71.83,1,2024,5,2,0,0,2024-05
+C100079502,M116837,1000001022,IM,NY,NY,2024-08-23,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",22,126.87,124.84,1,2024,8,4,0,0,2024-08
+C100258244,M100997,1000000240,FAMILY,PA,PA,2024-01-30,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,95.33,84.61,1,2024,1,1,0,0,2024-01
+C100336201,M109680,1000000860,IM,NY,NY,2024-05-17,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,96.26,89.13,1,2024,5,4,0,0,2024-05
+C100195065,M108046,1000000201,IM,PA,MA,2024-01-19,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",11,156.06,123.37,1,2024,1,4,0,0,2024-01
+C100247863,M111404,1000000823,IM,NJ,NJ,2024-04-10,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,148.69,142.75,1,2024,4,2,0,0,2024-04
+C100166976,M109755,1000000800,IM,PA,PA,2024-01-12,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,95.97,85.1,1,2024,1,4,0,0,2024-01
+C100071207,M119497,1000000520,IM,NY,NY,2024-09-09,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,60.92,59.74,1,2024,9,0,0,0,2024-09
+C100440410,M100031,1000000390,FAMILY,NJ,NY,2024-05-03,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",22,127.22,113.31,1,2024,5,4,0,0,2024-05
+C100104084,M116023,1000000636,IM,NJ,NJ,2024-07-30,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,161.65,148.94,1,2024,7,1,0,0,2024-07
+C100207413,M108297,1000001098,FAMILY,NJ,NJ,2024-08-04,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,91.37,74.5,1,2024,8,6,1,0,2024-08
+C100258556,M117831,1000000270,FAMILY,PA,PA,2024-11-19,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,96.79,92.5,1,2024,11,1,0,0,2024-11
+C100034156,M116455,1000000190,IM,NY,NJ,2024-05-15,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,86.38,79.92,1,2024,5,2,0,0,2024-05
+C100438025,M111974,1000001022,IM,NY,NY,2024-08-12,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,82.9,81.59,1,2024,8,0,0,0,2024-08
+C100131777,M105279,1000000669,IM,MA,MA,2024-03-10,I10,Essential (primary) hypertension,83036,Hemoglobin A1c,11,31.48,31.1,1,2024,3,6,1,0,2024-03
+C100163440,M108948,1000000620,FAMILY,NJ,NJ,2024-05-10,K21.9,GERD without esophagitis,81002,Urinalysis,11,7.57,7.28,1,2024,5,4,0,0,2024-05
+C100008681,M112772,1000000131,FAMILY,CT,CT,2024-05-21,Q90.9,"Down syndrome, unspecified",80053,Comprehensive metabolic panel,11,29.4,27.51,1,2024,5,1,0,0,2024-05
+C100079532,M122598,1000000190,IM,NY,NY,2024-05-29,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,97.76,82.62,1,2024,5,2,0,0,2024-05
+C100187370,M122074,1000000190,IM,NY,NY,2024-05-29,M17.9,"Osteoarthritis of knee, unspecified",83036,Hemoglobin A1c,11,31.06,29.92,1,2024,5,2,0,0,2024-05
+C100148238,M112336,1000000390,FAMILY,NJ,NJ,2024-05-31,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,97.36,91.47,1,2024,5,4,0,0,2024-05
+C100319089,M103327,1000001022,IM,NY,CT,2024-08-20,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,101.07,95.9,1,2024,8,1,0,0,2024-08
+C100270616,M101695,1000000441,IM,MA,MA,2024-08-16,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,96.76,92.54,1,2024,8,4,0,0,2024-08
+C100354321,M111382,1000000620,FAMILY,NJ,PA,2024-05-06,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,116.73,107.86,1,2024,5,0,0,0,2024-05
+C100268914,M101571,1000000724,IM,NY,NY,2024-01-28,E78.5,"Hyperlipidemia, unspecified",99214,"Office/outpatient visit, est. (higher)",11,122.75,102.13,1,2024,1,6,1,0,2024-01
+C100166710,M116446,1000000065,FAMILY,NY,MA,2024-03-29,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,91.56,85.13,1,2024,3,4,0,0,2024-03
+C100116192,M115853,1000000355,IM,NY,NJ,2024-04-05,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,170.88,164.16,1,2024,4,4,0,2,2024-04
+C100071935,M123742,1000000441,IM,MA,CT,2024-08-17,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,141.79,148.86,1,2024,8,5,1,0,2024-08
+C100304116,M115857,1000001153,FAMILY,NY,NY,2024-01-22,M25.562,Pain in left knee,99214,"Office/outpatient visit, est. (higher)",11,145.42,124.99,1,2024,1,0,0,0,2024-01
+C100416239,M109431,1000001022,IM,NY,NY,2024-08-12,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,30.0,29.96,1,2024,8,0,0,0,2024-08
+C100296938,M117747,1000000783,IM,NY,NY,2024-10-11,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",22,87.9,84.84,1,2024,10,4,0,0,2024-10
+C100055997,M102614,1000000355,IM,NY,NY,2024-04-22,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,94.11,73.63,1,2024,4,0,0,1,2024-04
+C100110061,M116758,1000001187,FAMILY,NY,NY,2024-01-07,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,22,41.11,37.48,1,2024,1,6,1,0,2024-01
+C100173287,M106107,1000000131,FAMILY,CT,CT,2024-05-28,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,86.82,77.76,1,2024,5,1,0,0,2024-05
+C100366089,M118154,1000000857,IM,CT,CT,2024-05-12,R07.9,"Chest pain, unspecified",83036,Hemoglobin A1c,11,34.4,32.1,1,2024,5,6,1,0,2024-05
+C100343662,M106320,1000000860,IM,NY,NY,2024-05-30,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,87.6,95.8,1,2024,5,3,0,0,2024-05
+C100448665,M115614,1000000441,IM,MA,MA,2024-08-16,M25.562,Pain in left knee,99214,"Office/outpatient visit, est. (higher)",11,114.63,99.15,1,2024,8,4,0,0,2024-08
+C100331591,M105741,1000000355,IM,NY,NY,2024-04-26,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,125.48,108.72,1,2024,4,4,0,1,2024-04
+C100329399,M110719,1000000860,IM,NY,NY,2024-05-14,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,92.37,79.97,1,2024,5,1,0,0,2024-05
+C100415273,M120694,1000000669,IM,MA,MA,2024-03-12,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,100.3,85.14,1,2024,3,1,0,0,2024-03
+C100321492,M115149,1000000441,IM,MA,NY,2024-08-25,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,11,32.64,28.32,1,2024,8,6,1,0,2024-08
+C100317108,M123639,1000000662,IM,CT,PA,2024-10-08,C50.919,"Malignant neoplasm of breast, unspecified",99213,"Office/outpatient visit, est.",11,92.05,81.46,1,2024,10,1,0,0,2024-10
+C100026715,M100850,1000000718,IM,NJ,NJ,2024-06-09,F41.9,"Anxiety disorder, unspecified",80053,Comprehensive metabolic panel,22,23.35,20.4,2,2024,6,6,1,0,2024-06
+C100430159,M120252,1000000620,FAMILY,NJ,NJ,2024-05-20,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,78.15,70.01,1,2024,5,0,0,0,2024-05
+C100092918,M123741,1000000783,IM,NY,NY,2024-10-17,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,109.69,103.19,1,2024,10,3,0,0,2024-10
+C100357763,M107516,1000001022,IM,NY,NY,2024-08-24,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,90.65,87.61,1,2024,8,5,1,0,2024-08
+C100103395,M113906,1000000620,FAMILY,NJ,NJ,2024-05-01,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,174.93,154.96,1,2024,5,2,0,0,2024-05
+C100008653,M110215,1000000390,FAMILY,NJ,NJ,2024-05-21,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",22,91.45,86.92,1,2024,5,1,0,0,2024-05
+C100296563,M109238,1000000636,IM,NJ,NJ,2024-07-03,I10,Essential (primary) hypertension,83036,Hemoglobin A1c,11,29.52,27.62,1,2024,7,2,0,0,2024-07
+C100029188,M116180,1000000783,IM,NY,NY,2024-10-29,F41.9,"Anxiety disorder, unspecified",83036,Hemoglobin A1c,11,30.99,27.47,2,2024,10,1,0,0,2024-10
+C100220626,M102819,1000001153,FAMILY,NY,MA,2024-11-14,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",22,91.57,95.67,1,2024,11,3,0,0,2024-11
+C100299681,M109953,1000001022,IM,NY,NY,2024-08-23,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,108.92,99.03,1,2024,8,4,0,0,2024-08
+C100334526,M102356,1000000814,IM,PA,PA,2024-03-08,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,102.13,86.83,1,2024,3,4,0,0,2024-03
+C100277866,M114056,1000000783,IM,NY,NY,2024-10-22,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,79.39,67.03,1,2024,10,1,0,0,2024-10
+C100165233,M118423,1000000240,FAMILY,PA,PA,2024-01-19,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",22,137.96,126.74,1,2024,1,4,0,0,2024-01
+C100318967,M107225,1000000355,IM,NY,CT,2024-04-07,Q90.9,"Down syndrome, unspecified",99214,"Office/outpatient visit, est. (higher)",11,132.48,122.95,1,2024,4,6,1,1,2024-04
+C100132978,M117861,1000000022,IM,CT,CT,2024-01-19,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,107.27,95.59,1,2024,1,4,0,0,2024-01
+C100013613,M115203,1000000240,FAMILY,PA,PA,2024-01-16,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,86.89,81.28,1,2024,1,1,0,0,2024-01
+C100393859,M103472,1000000131,FAMILY,CT,NY,2024-05-15,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",22,98.42,96.71,1,2024,5,2,0,2,2024-05
+C100253628,M111601,1000000240,FAMILY,PA,MA,2024-01-22,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,157.64,134.46,1,2024,1,0,0,0,2024-01
+C100209020,M100316,1000000724,IM,NY,MA,2024-01-12,K21.9,GERD without esophagitis,93000,ECG,11,61.51,56.64,1,2024,1,4,0,0,2024-01
+C100136868,M124607,1000000240,FAMILY,PA,PA,2024-01-04,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,91.63,88.07,1,2024,1,3,0,0,2024-01
+C100022086,M113627,1000000390,FAMILY,NJ,NJ,2024-05-11,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,86.05,79.37,1,2024,5,5,1,0,2024-05
+C100171432,M114248,1000000915,ORTHO,NJ,NJ,2024-08-20,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",22,92.49,79.72,1,2024,8,1,0,0,2024-08
+C100212661,M114381,1000000620,FAMILY,NJ,NJ,2024-05-06,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,91.54,92.12,1,2024,5,0,0,0,2024-05
+C100269026,M110697,1000000558,IM,PA,PA,2024-04-05,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",11,126.35,121.33,1,2024,4,4,0,0,2024-04
+C100195628,M112965,1000000313,IM,NY,NY,2024-08-27,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",22,92.96,80.41,1,2024,8,1,0,0,2024-08
+C100398248,M121263,1000000190,IM,NY,NY,2024-05-27,I10,Essential (primary) hypertension,83036,Hemoglobin A1c,11,34.17,29.86,1,2024,5,0,0,0,2024-05
+C100350723,M102903,1000001098,FAMILY,NJ,NJ,2024-08-27,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,90.38,81.51,1,2024,8,1,0,0,2024-08
+C100118811,M117630,1000000814,IM,PA,PA,2024-03-14,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,22,28.2,25.29,1,2024,3,3,0,0,2024-03
+C100398410,M100891,1000000724,IM,NY,NY,2024-01-19,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,68.4,67.99,1,2024,1,4,0,0,2024-01
+C100403047,M113379,1000000724,IM,NY,NY,2024-01-28,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,102.19,93.19,1,2024,1,6,1,0,2024-01
+C100293524,M115537,1000000201,IM,PA,PA,2024-01-08,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,81.26,69.03,1,2024,1,0,0,0,2024-01
+C100206121,M122338,1000000368,IM,NJ,NJ,2024-09-05,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,98.23,82.94,1,2024,9,3,0,0,2024-09
+C100107879,M117043,1000000337,FAMILY,NY,PA,2024-04-12,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,91.57,92.74,1,2024,4,4,0,2,2024-04
+C100203864,M100991,1000000295,FAMILY,PA,PA,2024-04-29,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,98.44,92.02,1,2024,4,0,0,0,2024-04
+C100097401,M120726,1000000355,IM,NY,NY,2024-04-05,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,111.29,99.93,1,2024,4,4,0,1,2024-04
+C100338251,M116225,1000000800,IM,PA,PA,2024-01-27,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,129.92,123.16,1,2024,1,5,1,0,2024-01
+C100091306,M113990,1000000800,IM,PA,PA,2024-01-31,E78.5,"Hyperlipidemia, unspecified",93000,ECG,22,49.1,42.94,1,2024,1,2,0,0,2024-01
+C100060462,M107658,1000001049,FAMILY,NY,NY,2024-12-09,D69.6,"Thrombocytopenia, unspecified",99213,"Office/outpatient visit, est.",22,91.95,82.78,1,2024,12,0,0,0,2024-12
+C100336449,M121764,1000000558,IM,PA,PA,2024-04-09,I10,Essential (primary) hypertension,83036,Hemoglobin A1c,11,35.48,31.66,1,2024,4,1,0,0,2024-04
+C100359231,M119909,1000000783,IM,NY,NY,2024-10-23,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,74.15,66.99,1,2024,10,2,0,0,2024-10
+C100070612,M107311,1000000558,IM,PA,PA,2024-04-20,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,92.4,93.48,1,2024,4,5,1,0,2024-04
+C100133390,M110991,1000000390,FAMILY,NJ,NJ,2024-05-30,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,72.47,53.79,1,2024,5,3,0,0,2024-05
+C100331888,M120080,1000000857,IM,CT,CT,2024-05-22,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,94.76,84.41,1,2024,5,2,0,0,2024-05
+C100064212,M112304,1000000718,IM,NJ,NJ,2024-06-25,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,85.62,63.32,1,2024,6,1,0,0,2024-06
+C100241931,M115599,1000000201,IM,PA,CT,2024-01-06,M25.562,Pain in left knee,93000,ECG,11,50.31,45.26,1,2024,1,5,1,0,2024-01
+C100241755,M106080,1000000860,IM,NY,NY,2024-05-10,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,26.24,24.43,1,2024,5,4,0,0,2024-05
+C100074517,M115593,1000000724,IM,NY,NY,2024-01-25,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,131.05,110.69,1,2024,1,3,0,0,2024-01
+C100031671,M102683,1000000724,IM,NY,NY,2024-01-08,M54.5,Low back pain,93000,ECG,11,49.41,48.48,1,2024,1,0,0,0,2024-01
+C100090550,M123806,1000000190,IM,NY,NY,2024-05-09,M17.9,"Osteoarthritis of knee, unspecified",83036,Hemoglobin A1c,11,36.9,31.54,2,2024,5,3,0,0,2024-05
+C100229109,M121139,1000000857,IM,CT,CT,2024-05-07,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,70.72,68.27,1,2024,5,1,0,0,2024-05
+C100047120,M112293,1000000303,FAMILY,NJ,NJ,2024-05-24,M54.5,Low back pain,99213,"Office/outpatient visit, est.",22,91.52,82.23,1,2024,5,4,0,0,2024-05
+C100126134,M121078,1000000718,IM,NJ,NJ,2024-06-17,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",22,158.63,146.43,1,2024,6,0,0,0,2024-06
+C100396742,M107768,1000001153,FAMILY,NY,NY,2024-01-26,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",22,73.09,64.15,1,2024,1,4,0,0,2024-01
+C100363048,M124551,1000000823,IM,NJ,NJ,2024-04-23,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,90.65,74.53,1,2024,4,1,0,0,2024-04
+C100005311,M122958,1000000022,IM,CT,MA,2024-01-17,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",22,81.85,72.33,1,2024,1,2,0,0,2024-01
+C100307823,M104810,1000000025,IM,CT,MA,2024-05-21,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,91.83,82.82,1,2024,5,1,0,2,2024-05
+C100021474,M103855,1000000636,IM,NJ,NJ,2024-07-14,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,96.1,93.5,1,2024,7,6,1,0,2024-07
+C100259859,M110554,1000000201,IM,PA,PA,2024-01-28,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,99.54,93.65,1,2024,1,6,1,0,2024-01
+C100145132,M115634,1000000240,FAMILY,PA,NY,2024-01-13,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",22,82.57,71.15,1,2024,1,5,1,0,2024-01
+C100173989,M122811,1000000022,IM,CT,CT,2024-01-22,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,76.99,76.85,1,2024,1,0,0,0,2024-01
+C100357992,M107288,1000000390,FAMILY,NJ,NJ,2024-05-20,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,153.07,148.89,1,2024,5,0,0,0,2024-05
+C100331775,M120837,1000000520,IM,NY,NY,2024-09-07,R51.9,"Headache, unspecified",99214,"Office/outpatient visit, est. (higher)",11,127.31,110.82,1,2024,9,5,1,0,2024-09
+C100343059,M100667,1000000783,IM,NY,NY,2024-10-05,M17.9,"Osteoarthritis of knee, unspecified",83036,Hemoglobin A1c,11,30.92,26.98,1,2024,10,5,1,0,2024-10
+C100346985,M101685,1000000823,IM,NJ,NJ,2024-04-29,J45.909,"Asthma, uncomplicated",99214,"Office/outpatient visit, est. (higher)",11,111.28,104.25,1,2024,4,0,0,0,2024-04
+C100154250,M105508,1000000390,FAMILY,NJ,NY,2024-05-11,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,27.44,24.05,1,2024,5,5,1,0,2024-05
+C100171662,M112961,1000000783,IM,NY,NY,2024-10-18,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,104.74,98.12,1,2024,10,4,0,0,2024-10
+C100238373,M104042,1000000814,IM,PA,PA,2024-03-03,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,111.6,97.34,1,2024,3,6,1,0,2024-03
+C100090023,M114738,1000000800,IM,PA,PA,2024-01-22,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,92.78,79.0,1,2024,1,0,0,0,2024-01
+C100371504,M123232,1000000783,IM,NY,NY,2024-10-09,M25.562,Pain in left knee,83036,Hemoglobin A1c,22,32.14,29.38,1,2024,10,2,0,0,2024-10
+C100417413,M109569,1000000718,IM,NJ,NJ,2024-06-17,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,96.42,84.92,1,2024,6,0,0,0,2024-06
+C100320567,M121100,1000000355,IM,NY,NY,2024-04-23,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,26.7,25.38,1,2024,4,1,0,1,2024-04
+C100285139,M104873,1000000724,IM,NY,NY,2024-01-15,Q90.9,"Down syndrome, unspecified",99213,"Office/outpatient visit, est.",11,88.46,84.75,1,2024,1,0,0,0,2024-01
+C100087938,M104969,1000001022,IM,NY,CT,2024-08-25,Q90.9,"Down syndrome, unspecified",99214,"Office/outpatient visit, est. (higher)",22,130.62,128.41,1,2024,8,6,1,0,2024-08
+C100087292,M123009,1000000558,IM,PA,PA,2024-04-03,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",22,97.06,89.51,1,2024,4,2,0,0,2024-04
+C100347459,M110123,1000000240,FAMILY,PA,PA,2024-01-16,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,23.98,21.66,1,2024,1,1,0,0,2024-01
+C100445705,M111228,1000000857,IM,CT,CT,2024-05-03,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,80.31,69.22,1,2024,5,4,0,0,2024-05
+C100355724,M110861,1000000390,FAMILY,NJ,NJ,2024-05-04,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",11,135.15,116.71,1,2024,5,5,1,0,2024-05
+C100200263,M111041,1000000800,IM,PA,PA,2024-01-11,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,135.45,139.41,1,2024,1,3,0,0,2024-01
+C100266170,M116804,1000000201,IM,PA,PA,2024-01-06,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,143.07,138.32,1,2024,1,5,1,0,2024-01
+C100188127,M122079,1000000669,IM,MA,MA,2024-03-21,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,89.64,81.35,1,2024,3,3,0,0,2024-03
+C100114163,M121479,1000000022,IM,CT,CT,2024-01-20,J45.909,"Asthma, uncomplicated",93000,ECG,11,40.8,37.39,1,2024,1,5,1,0,2024-01
+C100076414,M100685,1000000190,IM,NY,NY,2024-05-02,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,99.33,92.78,1,2024,5,3,0,0,2024-05
+C100398296,M112519,1000001153,FAMILY,NY,NY,2024-01-28,R07.9,"Chest pain, unspecified",83036,Hemoglobin A1c,11,31.71,28.81,1,2024,1,6,1,0,2024-01
+C100087093,M106405,1000001187,FAMILY,NY,NY,2024-01-27,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,92.25,79.77,1,2024,1,5,1,0,2024-01
+C100116844,M119492,1000000989,FAMILY,PA,PA,2024-12-05,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,92.7,81.6,1,2024,12,3,0,0,2024-12
+C100119879,M106339,1000000441,IM,MA,MA,2024-08-01,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",11,113.58,102.18,1,2024,8,3,0,0,2024-08
+C100163344,M122611,1000000857,IM,CT,NJ,2024-05-30,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,88.22,81.26,1,2024,5,3,0,0,2024-05
+C100169076,M124343,1000001187,FAMILY,NY,NY,2024-01-30,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",22,162.4,143.38,1,2024,1,1,0,0,2024-01
+C100226385,M121095,1000001098,FAMILY,NJ,NY,2024-08-17,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,70.9,72.29,1,2024,8,5,1,0,2024-08
+C100076233,M102637,1000000860,IM,NY,NJ,2024-05-14,M17.9,"Osteoarthritis of knee, unspecified",93000,ECG,11,54.44,52.94,1,2024,5,1,0,0,2024-05
+C100111361,M107118,1000000636,IM,NJ,NJ,2024-07-26,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,101.06,87.97,1,2024,7,4,0,0,2024-07
+C100120572,M117328,1000000860,IM,NY,NY,2024-05-26,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",22,137.96,115.09,1,2024,5,6,1,0,2024-05
+C100253791,M108458,1000001153,FAMILY,NY,NY,2024-01-26,E78.5,"Hyperlipidemia, unspecified",83036,Hemoglobin A1c,11,21.44,19.74,1,2024,1,4,0,0,2024-01
+C100143174,M123493,1000000558,IM,PA,PA,2024-04-21,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,98.84,90.26,1,2024,4,6,1,0,2024-04
+C100240501,M106577,1000000022,IM,CT,PA,2024-01-27,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,87.16,80.01,1,2024,1,5,1,0,2024-01
+C100418665,M124407,1000000558,IM,PA,PA,2024-04-09,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,109.16,103.45,1,2024,4,1,0,0,2024-04
+C100079805,M102999,1000000355,IM,NY,PA,2024-04-21,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,93.47,85.58,1,2024,4,6,1,1,2024-04
+C100228880,M101148,1000000783,IM,NY,NY,2024-10-19,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,89.76,87.99,1,2024,10,5,1,0,2024-10
+C100369868,M106547,1000000240,FAMILY,PA,NJ,2024-01-28,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,84.93,78.05,1,2024,1,6,1,0,2024-01
+C100364442,M116499,1000000823,IM,NJ,NY,2024-04-13,R07.9,"Chest pain, unspecified",80053,Comprehensive metabolic panel,11,33.05,32.16,1,2024,4,5,1,0,2024-04
+C100430817,M105053,1000000355,IM,NY,PA,2024-04-30,M54.5,Low back pain,93000,ECG,11,39.49,37.07,1,2024,4,1,0,1,2024-04
+C100130357,M103037,1000000390,FAMILY,NJ,NJ,2024-05-27,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,98.34,85.99,1,2024,5,0,0,0,2024-05
+C100434810,M110938,1000000814,IM,PA,PA,2024-03-10,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,25.07,20.4,1,2024,3,6,1,0,2024-03
+C100358856,M116324,1000000240,FAMILY,PA,PA,2024-01-18,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,25.26,20.69,1,2024,1,3,0,0,2024-01
+C100438749,M117688,1000000520,IM,NY,NJ,2024-09-27,D69.6,"Thrombocytopenia, unspecified",80053,Comprehensive metabolic panel,22,27.05,26.07,1,2024,9,4,0,0,2024-09
+C100394395,M101021,1000000022,IM,CT,CT,2024-01-17,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,86.62,62.62,1,2024,1,2,0,0,2024-01
+C100360887,M103082,1000000201,IM,PA,PA,2024-01-10,K21.9,GERD without esophagitis,93000,ECG,11,60.05,58.61,1,2024,1,2,0,0,2024-01
+C100221707,M112447,1000000441,IM,MA,MA,2024-08-26,Q90.9,"Down syndrome, unspecified",83036,Hemoglobin A1c,11,25.43,24.31,1,2024,8,0,0,0,2024-08
+C100221168,M101404,1000000068,FAMILY,PA,NJ,2024-03-05,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,93.06,95.25,1,2024,3,1,0,0,2024-03
+C100296285,M123845,1000000520,IM,NY,NY,2024-09-16,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,142.96,139.35,1,2024,9,0,0,0,2024-09
+C100155090,M105853,1000000620,FAMILY,NJ,NJ,2024-05-17,R51.9,"Headache, unspecified",99214,"Office/outpatient visit, est. (higher)",11,151.49,130.97,1,2024,5,4,0,0,2024-05
+C100387814,M115067,1000000800,IM,PA,CT,2024-01-31,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,84.03,84.01,1,2024,1,2,0,2,2024-01
+C100255017,M117808,1000000823,IM,NJ,NJ,2024-04-09,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,143.88,127.78,1,2024,4,1,0,0,2024-04
+C100290118,M124144,1000000669,IM,MA,MA,2024-03-05,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,165.5,159.78,1,2024,3,1,0,0,2024-03
+C100070687,M102105,1000000857,IM,CT,CT,2024-05-30,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,22,24.88,22.29,1,2024,5,3,0,0,2024-05
+C100137961,M120690,1000000636,IM,NJ,NJ,2024-07-18,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,69.86,66.55,1,2024,7,3,0,0,2024-07
+C100410861,M118676,1000000814,IM,PA,PA,2024-03-29,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,97.62,86.9,1,2024,3,4,0,0,2024-03
+C100353763,M118000,1000000718,IM,NJ,NJ,2024-06-05,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",11,106.37,106.56,1,2024,6,2,0,0,2024-06
+C100211455,M122302,1000000823,IM,NJ,NJ,2024-04-05,M25.561,Pain in right knee,83036,Hemoglobin A1c,22,29.01,24.96,1,2024,4,4,0,0,2024-04
+C100138025,M107467,1000000814,IM,PA,PA,2024-03-15,F41.9,"Anxiety disorder, unspecified",83036,Hemoglobin A1c,11,26.77,23.2,2,2024,3,4,0,0,2024-03
+C100377086,M100789,1000000131,FAMILY,CT,CT,2024-05-24,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",11,78.5,79.19,1,2024,5,4,0,0,2024-05
+C100184336,M101342,1000000190,IM,NY,NY,2024-05-09,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,91.72,89.8,1,2024,5,3,0,0,2024-05
+C100235624,M102397,1000000022,IM,CT,CT,2024-01-31,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,11,34.35,32.82,1,2024,1,2,0,0,2024-01
+C100423196,M110510,1000000718,IM,NJ,NJ,2024-06-04,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",22,177.75,159.54,1,2024,6,1,0,0,2024-06
+C100207292,M116718,1000000558,IM,PA,PA,2024-04-19,M54.5,Low back pain,83036,Hemoglobin A1c,11,28.48,29.9,1,2024,4,4,0,0,2024-04
+C100149388,M115040,1000000823,IM,NJ,NY,2024-04-19,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,102.22,98.03,1,2024,4,4,0,0,2024-04
+C100360629,M106948,1000000620,FAMILY,NJ,NJ,2024-05-05,M54.5,Low back pain,81002,Urinalysis,11,11.05,10.39,2,2024,5,6,1,0,2024-05
+C100363850,M112700,1000000390,FAMILY,NJ,NJ,2024-05-07,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",22,96.59,91.89,1,2024,5,1,0,0,2024-05
+C100165022,M112751,1000000800,IM,PA,PA,2024-01-26,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,94.45,79.48,1,2024,1,4,0,0,2024-01
+C100213672,M119532,1000000823,IM,NJ,NJ,2024-04-07,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",22,76.64,67.81,1,2024,4,6,1,0,2024-04
+C100219085,M108347,1000000860,IM,NY,NY,2024-05-17,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,93.5,81.5,1,2024,5,4,0,0,2024-05
+C100132322,M117745,1000000240,FAMILY,PA,NY,2024-01-06,J06.9,"Acute upper respiratory infection, unspecified",81002,Urinalysis,22,9.35,9.03,1,2024,1,5,1,0,2024-01
+C100073848,M120921,1000000949,ORTHO,MA,MA,2024-08-20,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,91.91,87.07,1,2024,8,1,0,0,2024-08
+C100385818,M115675,1000000814,IM,PA,PA,2024-03-09,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,73.63,65.13,1,2024,3,5,1,0,2024-03
+C100272826,M114109,1000000390,FAMILY,NJ,NJ,2024-05-03,M25.561,Pain in right knee,80053,Comprehensive metabolic panel,11,22.89,22.45,1,2024,5,4,0,0,2024-05
+C100199953,M121418,1000000669,IM,MA,MA,2024-03-13,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,107.35,103.72,1,2024,3,2,0,0,2024-03
+C100295342,M111291,1000001153,FAMILY,NY,NY,2024-01-03,R07.9,"Chest pain, unspecified",80053,Comprehensive metabolic panel,11,17.93,17.48,2,2024,1,2,0,2,2024-01
+C100365433,M101016,1000000201,IM,PA,MA,2024-01-12,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,74.91,62.94,1,2024,1,4,0,2,2024-01
+C100370306,M116491,1000000327,IM,NJ,NJ,2024-07-29,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,94.68,102.66,1,2024,7,0,0,1,2024-07
+C100444284,M124099,1000000520,IM,NY,NY,2024-09-20,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,90.77,87.24,1,2024,9,4,0,0,2024-09
+C100427327,M100033,1000000620,FAMILY,NJ,NJ,2024-05-11,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,82.88,72.07,1,2024,5,5,1,0,2024-05
+C100358522,M121751,1000000520,IM,NY,PA,2024-09-10,M54.5,Low back pain,80053,Comprehensive metabolic panel,11,21.62,17.43,1,2024,9,1,0,0,2024-09
+C100399020,M111273,1000000860,IM,NY,NY,2024-05-28,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,129.71,119.39,1,2024,5,1,0,0,2024-05
+C100370579,M103665,1000000823,IM,NJ,NJ,2024-04-24,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,134.23,126.62,1,2024,4,2,0,0,2024-04
+C100396843,M122907,1000000131,FAMILY,CT,CT,2024-05-06,D69.6,"Thrombocytopenia, unspecified",99214,"Office/outpatient visit, est. (higher)",11,153.75,136.14,1,2024,5,0,0,0,2024-05
+C100323162,M107821,1000000240,FAMILY,PA,NY,2024-01-09,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,99.75,97.61,1,2024,1,1,0,2,2024-01
+C100334812,M122937,1000001153,FAMILY,NY,NY,2024-01-23,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,96.4,90.56,1,2024,1,1,0,0,2024-01
+C100051777,M104352,1000001022,IM,NY,NY,2024-08-22,F41.9,"Anxiety disorder, unspecified",93000,ECG,11,49.66,46.12,1,2024,8,3,0,0,2024-08
+C100141816,M101080,1000000131,FAMILY,CT,CT,2024-05-18,N39.0,"UTI, site not specified",80053,Comprehensive metabolic panel,11,25.19,22.48,1,2024,5,5,1,0,2024-05
+C100093003,M118918,1000000857,IM,CT,CT,2024-05-19,J45.909,"Asthma, uncomplicated",99214,"Office/outpatient visit, est. (higher)",22,158.63,156.82,1,2024,5,6,1,0,2024-05
+C100303445,M114602,1000000814,IM,PA,PA,2024-03-19,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,21.14,19.34,1,2024,3,1,0,0,2024-03
+C100020881,M106884,1000000520,IM,NY,NY,2024-09-24,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,194.17,163.97,1,2024,9,1,0,0,2024-09
+C100317535,M105929,1000000201,IM,PA,PA,2024-01-27,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,89.17,80.35,1,2024,1,5,1,0,2024-01
+C100101900,M100948,1000000201,IM,PA,NY,2024-01-18,M25.561,Pain in right knee,99214,"Office/outpatient visit, est. (higher)",22,116.01,108.03,1,2024,1,3,0,0,2024-01
+C100375146,M112776,1000000355,IM,NY,NJ,2024-04-12,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,87.26,80.61,1,2024,4,4,0,1,2024-04
+C100433276,M114912,1000000302,IM,PA,NJ,2024-05-03,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,93.26,77.13,1,2024,5,4,0,0,2024-05
+C100397113,M103543,1000000718,IM,NJ,NJ,2024-06-26,G35,Multiple sclerosis,99213,"Office/outpatient visit, est.",11,96.09,92.66,1,2024,6,2,0,0,2024-06
+C100278248,M117816,1000000270,FAMILY,PA,PA,2024-11-01,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,98.75,89.49,1,2024,11,4,0,0,2024-11
+C100057199,M110434,1000000636,IM,NJ,MA,2024-07-15,M25.561,Pain in right knee,99214,"Office/outpatient visit, est. (higher)",11,103.32,105.83,1,2024,7,0,0,0,2024-07
+C100327860,M121112,1000000390,FAMILY,NJ,CT,2024-05-03,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,110.31,103.56,1,2024,5,4,0,0,2024-05
+C100141041,M105649,1000000800,IM,PA,PA,2024-01-14,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,86.71,85.0,1,2024,1,6,1,0,2024-01
+C100333301,M109742,1000001022,IM,NY,NY,2024-08-28,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,95.35,80.68,1,2024,8,2,0,0,2024-08
+C100265366,M108320,1000000814,IM,PA,PA,2024-03-29,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,114.14,112.37,1,2024,3,4,0,0,2024-03
+C100322960,M112783,1000000636,IM,NJ,NY,2024-07-09,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,89.69,81.18,1,2024,7,1,0,0,2024-07
+C100414396,M106357,1000001153,FAMILY,NY,NY,2024-01-18,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,142.32,142.73,1,2024,1,3,0,0,2024-01
+C100125899,M102777,1000000800,IM,PA,PA,2024-01-20,E11.9,Type 2 diabetes mellitus without complications,93000,ECG,22,54.25,51.34,1,2024,1,5,1,0,2024-01
+C100223397,M112254,1000000022,IM,CT,CT,2024-01-05,K21.9,GERD without esophagitis,99214,"Office/outpatient visit, est. (higher)",11,143.11,140.3,1,2024,1,4,0,0,2024-01
+C100226028,M102349,1000000190,IM,NY,NY,2024-05-27,M25.561,Pain in right knee,83036,Hemoglobin A1c,11,36.47,36.96,1,2024,5,0,0,0,2024-05
+C100397617,M112587,1000000390,FAMILY,NJ,NJ,2024-05-22,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,100.31,82.16,1,2024,5,2,0,0,2024-05
+C100129313,M116738,1000000620,FAMILY,NJ,NJ,2024-05-13,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",22,95.6,85.88,1,2024,5,0,0,0,2024-05
+C100002280,M122219,1000001098,FAMILY,NJ,PA,2024-08-01,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,111.59,104.55,1,2024,8,3,0,0,2024-08
+C100367674,M122950,1000001153,FAMILY,NY,NY,2024-01-25,M25.561,Pain in right knee,80053,Comprehensive metabolic panel,22,28.36,26.61,1,2024,1,3,0,0,2024-01
+C100422701,M106207,1000000718,IM,NJ,NJ,2024-06-05,J45.909,"Asthma, uncomplicated",99214,"Office/outpatient visit, est. (higher)",11,141.0,122.44,1,2024,6,2,0,0,2024-06
+C100355748,M115212,1000000131,FAMILY,CT,NJ,2024-05-18,R51.9,"Headache, unspecified",99214,"Office/outpatient visit, est. (higher)",11,126.28,107.62,1,2024,5,5,1,0,2024-05
+C100319008,M105013,1000000390,FAMILY,NJ,NJ,2024-05-30,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",22,88.17,81.88,1,2024,5,3,0,0,2024-05
+C100393609,M104107,1000000190,IM,NY,PA,2024-05-23,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,100.29,87.89,1,2024,5,3,0,0,2024-05
+C100058610,M106274,1000000857,IM,CT,CT,2024-05-02,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,11,30.29,28.54,1,2024,5,3,0,0,2024-05
+C100332110,M117630,1000000558,IM,PA,PA,2024-04-05,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",22,81.75,69.45,1,2024,4,4,0,0,2024-04
+C100233144,M119862,1000001187,FAMILY,NY,NY,2024-01-08,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,78.66,81.85,1,2024,1,0,0,0,2024-01
+C100293284,M115065,1000000823,IM,NJ,NJ,2024-04-28,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,87.95,76.43,1,2024,4,6,1,0,2024-04
+C100028586,M105517,1000000823,IM,NJ,CT,2024-04-30,E78.5,"Hyperlipidemia, unspecified",99214,"Office/outpatient visit, est. (higher)",11,120.23,113.35,1,2024,4,1,0,0,2024-04
+C100019852,M116081,1000000022,IM,CT,CT,2024-01-04,M54.5,Low back pain,99213,"Office/outpatient visit, est.",22,95.87,85.79,1,2024,1,3,0,0,2024-01
+C100120095,M102627,1000000857,IM,CT,CT,2024-05-21,M25.561,Pain in right knee,80053,Comprehensive metabolic panel,11,26.75,25.55,1,2024,5,1,0,0,2024-05
+C100082007,M100272,1000000857,IM,CT,PA,2024-05-27,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",22,71.47,66.53,1,2024,5,0,0,0,2024-05
+C100014877,M115344,1000000355,IM,NY,NY,2024-04-25,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,123.34,107.38,1,2024,4,3,0,1,2024-04
+C100421948,M113965,1000000620,FAMILY,NJ,NJ,2024-05-27,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,80.61,75.29,1,2024,5,0,0,0,2024-05
+C100136902,M112432,1000000201,IM,PA,NJ,2024-01-18,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,82.82,85.81,1,2024,1,3,0,2,2024-01
+C100285567,M102280,1000000800,IM,PA,PA,2024-01-05,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,25.1,20.96,1,2024,1,4,0,0,2024-01
+C100214321,M113513,1000001098,FAMILY,NJ,NJ,2024-08-15,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,95.85,85.9,1,2024,8,3,0,0,2024-08
+C100167045,M121961,1000000620,FAMILY,NJ,PA,2024-05-03,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,92.27,87.41,1,2024,5,4,0,0,2024-05
+C100241381,M122925,1000001187,FAMILY,NY,NY,2024-01-26,Q90.9,"Down syndrome, unspecified",99213,"Office/outpatient visit, est.",11,85.66,81.27,1,2024,1,4,0,0,2024-01
+C100388613,M114328,1000001187,FAMILY,NY,NY,2024-01-10,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",22,96.08,86.35,1,2024,1,2,0,0,2024-01
+C100222574,M118919,1000000558,IM,PA,NY,2024-04-14,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,149.57,139.07,1,2024,4,6,1,0,2024-04
+C100345091,M124940,1000000190,IM,NY,NY,2024-05-17,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,85.95,77.15,1,2024,5,4,0,0,2024-05
+C100291391,M101471,1000000857,IM,CT,CT,2024-05-03,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,128.73,107.72,1,2024,5,4,0,0,2024-05
+C100085025,M113745,1000000620,FAMILY,NJ,NJ,2024-05-18,Q90.9,"Down syndrome, unspecified",99213,"Office/outpatient visit, est.",11,79.16,66.72,1,2024,5,5,1,0,2024-05
+C100037677,M108764,1000000190,IM,NY,NY,2024-05-24,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,93.72,82.23,1,2024,5,4,0,0,2024-05
+C100271200,M110103,1000000390,FAMILY,NJ,NJ,2024-05-11,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,93.94,92.6,1,2024,5,5,1,0,2024-05
+C100371310,M106368,1000000022,IM,CT,CT,2024-01-06,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,95.65,89.51,1,2024,1,5,1,0,2024-01
+C100079596,M113689,1000000669,IM,MA,MA,2024-03-07,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",22,135.66,106.9,1,2024,3,3,0,0,2024-03
+C100259884,M122382,1000001001,FAMILY,NJ,NJ,2024-08-27,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,98.74,88.45,1,2024,8,1,0,0,2024-08
+C100302424,M117567,1000000718,IM,NJ,NJ,2024-06-10,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,21.85,21.03,1,2024,6,0,0,0,2024-06
+C100038085,M107340,1000000860,IM,NY,NY,2024-05-23,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,91.93,89.2,1,2024,5,3,0,0,2024-05
+C100008090,M108235,1000000201,IM,PA,PA,2024-01-05,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,121.19,107.9,1,2024,1,4,0,0,2024-01
+C100092689,M121164,1000000823,IM,NJ,MA,2024-04-02,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",22,105.75,99.77,1,2024,4,1,0,0,2024-04
+C100023328,M104397,1000000823,IM,NJ,NJ,2024-04-24,M25.562,Pain in left knee,80053,Comprehensive metabolic panel,11,29.6,26.84,2,2024,4,2,0,0,2024-04
+C100286449,M102654,1000001153,FAMILY,NY,NY,2024-01-27,J45.909,"Asthma, uncomplicated",80053,Comprehensive metabolic panel,11,21.64,21.91,1,2024,1,5,1,0,2024-01
+C100214754,M113691,1000000240,FAMILY,PA,CT,2024-01-21,J06.9,"Acute upper respiratory infection, unspecified",81002,Urinalysis,11,10.05,9.0,1,2024,1,6,1,0,2024-01
+C100114456,M111850,1000000857,IM,CT,CT,2024-05-25,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,128.87,111.57,1,2024,5,5,1,0,2024-05
+C100129266,M104487,1000001098,FAMILY,NJ,NJ,2024-08-05,R51.9,"Headache, unspecified",83036,Hemoglobin A1c,11,25.43,24.84,1,2024,8,0,0,0,2024-08
+C100031469,M123420,1000001098,FAMILY,NJ,NJ,2024-08-28,D69.6,"Thrombocytopenia, unspecified",99213,"Office/outpatient visit, est.",11,89.95,86.53,1,2024,8,2,0,0,2024-08
+C100194012,M100696,1000000390,FAMILY,NJ,NJ,2024-05-05,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,183.55,183.35,1,2024,5,6,1,0,2024-05
+C100414859,M104139,1000001187,FAMILY,NY,CT,2024-01-28,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,98.26,82.85,1,2024,1,6,1,0,2024-01
+C100416704,M120823,1000000800,IM,PA,PA,2024-01-26,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,81.8,80.51,1,2024,1,4,0,0,2024-01
+C100170486,M103793,1000000800,IM,PA,PA,2024-01-01,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,87.73,73.04,1,2024,1,0,0,0,2024-01
+C100400730,M106066,1000001098,FAMILY,NJ,NJ,2024-08-21,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,57.47,51.26,1,2024,8,2,0,0,2024-08
+C100144162,M112071,1000000201,IM,PA,PA,2024-01-17,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",22,120.13,124.0,1,2024,1,2,0,0,2024-01
+C100418540,M123307,1000000636,IM,NJ,NJ,2024-07-19,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,106.19,112.75,1,2024,7,4,0,0,2024-07
+C100265630,M124145,1000000558,IM,PA,PA,2024-04-28,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,78.68,72.0,1,2024,4,6,1,0,2024-04
+C100262282,M101837,1000000201,IM,PA,PA,2024-01-29,M25.562,Pain in left knee,93000,ECG,11,53.47,50.66,1,2024,1,0,0,0,2024-01
+C100439046,M115261,1000000095,ORTHO,MA,MA,2024-03-11,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,95.67,100.56,1,2024,3,0,0,0,2024-03
+C100155935,M122873,1000000520,IM,NY,NY,2024-09-01,E78.5,"Hyperlipidemia, unspecified",99214,"Office/outpatient visit, est. (higher)",22,113.21,104.86,1,2024,9,6,1,0,2024-09
+C100120344,M119424,1000000022,IM,CT,CT,2024-01-31,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,11,27.7,27.31,1,2024,1,2,0,0,2024-01
+C100095527,M113550,1000000669,IM,MA,PA,2024-03-19,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,124.1,111.47,1,2024,3,1,0,0,2024-03
+C100323081,M112981,1000000636,IM,NJ,NJ,2024-07-15,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,88.31,75.46,1,2024,7,0,0,0,2024-07
+C100421868,M118462,1000000390,FAMILY,NJ,NJ,2024-05-15,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,111.73,106.3,1,2024,5,2,0,0,2024-05
+C100227505,M101006,1000000131,FAMILY,CT,CT,2024-05-26,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,92.17,84.43,1,2024,5,6,1,0,2024-05
+C100400750,M109635,1000001153,FAMILY,NY,CT,2024-01-24,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",11,87.27,88.42,1,2024,1,2,0,0,2024-01
+C100273976,M110909,1000000558,IM,PA,PA,2024-04-12,F41.9,"Anxiety disorder, unspecified",99214,"Office/outpatient visit, est. (higher)",11,161.02,145.91,1,2024,4,4,0,0,2024-04
+C100064799,M124169,1000000240,FAMILY,PA,PA,2024-01-02,F41.9,"Anxiety disorder, unspecified",81002,Urinalysis,11,9.84,9.12,2,2024,1,1,0,0,2024-01
+C100328062,M121383,1000000355,IM,NY,NY,2024-04-08,E78.5,"Hyperlipidemia, unspecified",83036,Hemoglobin A1c,11,31.38,29.44,2,2024,4,0,0,1,2024-04
+C100222258,M116678,1000001187,FAMILY,NY,NY,2024-01-16,M25.562,Pain in left knee,83036,Hemoglobin A1c,11,30.84,27.14,1,2024,1,1,0,0,2024-01
+C100002037,M117935,1000001187,FAMILY,NY,NY,2024-01-28,J45.909,"Asthma, uncomplicated",80053,Comprehensive metabolic panel,22,33.07,28.27,1,2024,1,6,1,0,2024-01
+C100449340,M114778,1000000201,IM,PA,PA,2024-01-26,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,101.97,85.36,1,2024,1,4,0,0,2024-01
+C100324884,M111454,1000001022,IM,NY,NY,2024-08-23,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,11,28.01,24.13,1,2024,8,4,0,0,2024-08
+C100048739,M112321,1000000131,FAMILY,CT,MA,2024-05-02,M25.562,Pain in left knee,80053,Comprehensive metabolic panel,11,24.53,20.73,1,2024,5,3,0,0,2024-05
+C100124304,M105780,1000000558,IM,PA,PA,2024-04-23,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",22,88.64,81.1,1,2024,4,1,0,0,2024-04
+C100020493,M124653,1000000724,IM,NY,NY,2024-01-12,F41.9,"Anxiety disorder, unspecified",83036,Hemoglobin A1c,11,28.6,26.09,2,2024,1,4,0,0,2024-01
+C100295766,M120615,1000000240,FAMILY,PA,MA,2024-01-11,J06.9,"Acute upper respiratory infection, unspecified",99214,"Office/outpatient visit, est. (higher)",11,134.13,130.81,1,2024,1,3,0,0,2024-01
+C100246954,M112236,1000001098,FAMILY,NJ,NJ,2024-08-22,M54.5,Low back pain,36415,Venipuncture,22,5.38,4.99,2,2024,8,3,0,0,2024-08
+C100261253,M118029,1000001098,FAMILY,NJ,NJ,2024-08-03,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,25.99,23.75,1,2024,8,5,1,0,2024-08
+C100209787,M123888,1000000355,IM,NY,NY,2024-04-25,R51.9,"Headache, unspecified",99214,"Office/outpatient visit, est. (higher)",11,124.51,117.62,1,2024,4,3,0,1,2024-04
+C100055419,M109036,1000000860,IM,NY,NY,2024-05-05,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,150.5,146.54,1,2024,5,6,1,0,2024-05
+C100194219,M120414,1000001022,IM,NY,NY,2024-08-23,E11.9,Type 2 diabetes mellitus without complications,83036,Hemoglobin A1c,11,22.91,19.99,1,2024,8,4,0,0,2024-08
+C100327986,M115191,1000000441,IM,MA,CT,2024-08-22,J45.909,"Asthma, uncomplicated",80053,Comprehensive metabolic panel,22,24.93,22.94,1,2024,8,3,0,0,2024-08
+C100197755,M111896,1000001187,FAMILY,NY,PA,2024-01-11,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",11,91.24,87.52,1,2024,1,3,0,0,2024-01
+C100141679,M118686,1000000823,IM,NJ,NJ,2024-04-16,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,108.73,92.73,1,2024,4,1,0,0,2024-04
+C100007762,M110072,1000000669,IM,MA,MA,2024-03-10,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,97.58,85.15,1,2024,3,6,1,0,2024-03
+C100183599,M107298,1000001187,FAMILY,NY,NY,2024-01-13,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,118.14,114.53,1,2024,1,5,1,0,2024-01
+C100348925,M121218,1000000669,IM,MA,MA,2024-03-27,M25.561,Pain in right knee,99214,"Office/outpatient visit, est. (higher)",11,94.58,82.75,1,2024,3,2,0,0,2024-03
+C100221745,M116367,1000001153,FAMILY,NY,NY,2024-01-16,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",22,101.34,91.2,1,2024,1,1,0,0,2024-01
+C100159123,M120928,1000001022,IM,NY,NY,2024-08-28,N39.0,"UTI, site not specified",99214,"Office/outpatient visit, est. (higher)",11,170.09,162.84,1,2024,8,2,0,0,2024-08
+C100098983,M113843,1000000783,IM,NY,NY,2024-10-18,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,93.76,83.94,1,2024,10,4,0,0,2024-10
+C100409454,M119515,1000001156,IM,MA,MA,2024-09-24,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,98.75,94.59,1,2024,9,1,0,0,2024-09
+C100370662,M112849,1000001022,IM,NY,MA,2024-08-31,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",22,91.69,78.04,1,2024,8,5,1,0,2024-08
+C100282465,M111477,1000001187,FAMILY,NY,NY,2024-01-15,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,76.2,68.83,1,2024,1,0,0,0,2024-01
+C100306013,M114881,1000001080,FAMILY,PA,PA,2024-05-24,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,95.89,85.7,1,2024,5,4,0,0,2024-05
+C100295157,M115492,1000000800,IM,PA,PA,2024-01-24,E11.9,Type 2 diabetes mellitus without complications,80053,Comprehensive metabolic panel,11,23.84,20.03,1,2024,1,2,0,0,2024-01
+C100142071,M119292,1000000022,IM,CT,CT,2024-01-19,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,11,24.96,21.93,2,2024,1,4,0,0,2024-01
+C100329265,M117403,1000001187,FAMILY,NY,NY,2024-01-13,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,93.34,78.16,1,2024,1,5,1,0,2024-01
+C100326699,M122853,1000001022,IM,NY,NY,2024-08-08,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,81.69,84.94,1,2024,8,3,0,0,2024-08
+C100393883,M120638,1000000857,IM,CT,CT,2024-05-19,M17.9,"Osteoarthritis of knee, unspecified",99214,"Office/outpatient visit, est. (higher)",22,181.0,176.72,1,2024,5,6,1,0,2024-05
+C100116121,M120645,1000000558,IM,PA,PA,2024-04-05,I10,Essential (primary) hypertension,80053,Comprehensive metabolic panel,22,25.98,23.22,1,2024,4,4,0,0,2024-04
+C100400403,M103366,1000001022,IM,NY,NY,2024-08-03,N39.0,"UTI, site not specified",80053,Comprehensive metabolic panel,11,21.38,19.74,1,2024,8,5,1,0,2024-08
+C100273884,M105325,1000000441,IM,MA,MA,2024-08-19,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,90.77,87.48,1,2024,8,0,0,0,2024-08
+C100392004,M101100,1000000390,FAMILY,NJ,NY,2024-05-30,R51.9,"Headache, unspecified",80053,Comprehensive metabolic panel,11,31.75,27.76,1,2024,5,3,0,0,2024-05
+C100296555,M115400,1000000724,IM,NY,NY,2024-01-05,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,168.76,160.74,1,2024,1,4,0,0,2024-01
+C100034430,M120288,1000000190,IM,NY,NY,2024-05-08,G35,Multiple sclerosis,99213,"Office/outpatient visit, est.",11,101.57,85.54,1,2024,5,2,0,0,2024-05
+C100273772,M120865,1000000860,IM,NY,MA,2024-05-05,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,11,22.13,20.5,1,2024,5,6,1,0,2024-05
+C100324400,M110751,1000000783,IM,NY,PA,2024-10-19,E78.5,"Hyperlipidemia, unspecified",80053,Comprehensive metabolic panel,11,30.69,31.64,1,2024,10,5,1,2,2024-10
+C100435454,M114277,1000000669,IM,MA,MA,2024-03-23,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,89.6,91.28,1,2024,3,5,1,0,2024-03
+C100145073,M105959,1000000441,IM,MA,NY,2024-08-09,M54.5,Low back pain,99214,"Office/outpatient visit, est. (higher)",11,115.26,95.05,1,2024,8,4,0,0,2024-08
+C100010491,M120741,1000000636,IM,NJ,NJ,2024-07-14,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,95.73,89.45,1,2024,7,6,1,0,2024-07
+C100179220,M102223,1000000857,IM,CT,PA,2024-05-14,R51.9,"Headache, unspecified",99213,"Office/outpatient visit, est.",11,85.63,68.59,1,2024,5,1,0,0,2024-05
+C100265349,M123040,1000000783,IM,NY,NY,2024-10-05,E78.5,"Hyperlipidemia, unspecified",99214,"Office/outpatient visit, est. (higher)",22,147.83,147.06,1,2024,10,5,1,0,2024-10
+C100093240,M122488,1000000620,FAMILY,NJ,NY,2024-05-04,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",22,99.58,93.6,1,2024,5,5,1,0,2024-05
+C100160413,M104416,1000000190,IM,NY,NY,2024-05-27,F41.9,"Anxiety disorder, unspecified",80053,Comprehensive metabolic panel,11,24.54,22.91,1,2024,5,0,0,0,2024-05
+C100117157,M113746,1000000022,IM,CT,CT,2024-01-21,M54.5,Low back pain,99213,"Office/outpatient visit, est.",11,75.34,70.81,1,2024,1,6,1,0,2024-01
+C100219346,M122600,1000001022,IM,NY,NY,2024-08-16,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",22,105.62,99.72,1,2024,8,4,0,0,2024-08
+C100238041,M113923,1000001022,IM,NY,NY,2024-08-10,M25.561,Pain in right knee,99213,"Office/outpatient visit, est.",22,92.62,87.67,1,2024,8,5,1,0,2024-08
+C100286444,M114304,1000000724,IM,NY,NJ,2024-01-09,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,89.64,78.27,1,2024,1,1,0,2,2024-01
+C100196444,M122224,1000000718,IM,NJ,CT,2024-06-02,J06.9,"Acute upper respiratory infection, unspecified",80053,Comprehensive metabolic panel,11,24.17,20.0,1,2024,6,6,1,0,2024-06
+C100016174,M104551,1000000239,FAMILY,CT,CT,2024-08-21,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,92.65,89.48,1,2024,8,2,0,2,2024-08
+C100176015,M118856,1000001187,FAMILY,NY,NY,2024-01-08,M17.9,"Osteoarthritis of knee, unspecified",99213,"Office/outpatient visit, est.",11,111.01,100.57,1,2024,1,0,0,0,2024-01
+C100380029,M108339,1000000814,IM,PA,PA,2024-03-15,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",22,100.78,102.61,1,2024,3,4,0,0,2024-03
+C100080302,M105935,1000000190,IM,NY,NY,2024-05-18,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",22,85.48,79.67,1,2024,5,5,1,0,2024-05
+C100380932,M124985,1000000441,IM,MA,MA,2024-08-18,E11.9,Type 2 diabetes mellitus without complications,99214,"Office/outpatient visit, est. (higher)",11,163.64,150.46,1,2024,8,6,1,0,2024-08
+C100059719,M100041,1000000022,IM,CT,CT,2024-01-30,E11.9,Type 2 diabetes mellitus without complications,99213,"Office/outpatient visit, est.",11,91.05,83.7,1,2024,1,1,0,0,2024-01
+C100211327,M112196,1000000131,FAMILY,CT,NY,2024-05-30,I10,Essential (primary) hypertension,99213,"Office/outpatient visit, est.",11,97.69,78.49,1,2024,5,3,0,0,2024-05
+C100053116,M114500,1000000860,IM,NY,NY,2024-05-07,E78.5,"Hyperlipidemia, unspecified",99213,"Office/outpatient visit, est.",11,101.33,88.18,1,2024,5,1,0,0,2024-05
+C100265113,M106238,1000000558,IM,PA,PA,2024-04-02,R07.9,"Chest pain, unspecified",99213,"Office/outpatient visit, est.",11,84.67,76.19,1,2024,4,1,0,0,2024-04
+C100192205,M120909,1000000355,IM,NY,NY,2024-04-30,I10,Essential (primary) hypertension,99214,"Office/outpatient visit, est. (higher)",11,134.38,124.41,1,2024,4,1,0,1,2024-04
+C100128651,M121782,1000000190,IM,NY,NY,2024-05-07,E78.5,"Hyperlipidemia, unspecified",99214,"Office/outpatient visit, est. (higher)",11,157.25,158.26,1,2024,5,1,0,0,2024-05
+C100267420,M121954,1000000558,IM,PA,PA,2024-04-25,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,87.37,80.51,1,2024,4,3,0,0,2024-04
+C100075841,M112832,1000001187,FAMILY,NY,NY,2024-01-30,N39.0,"UTI, site not specified",99213,"Office/outpatient visit, est.",11,92.45,95.45,1,2024,1,1,0,0,2024-01
+C100356890,M109007,1000001022,IM,NY,NY,2024-08-18,F41.9,"Anxiety disorder, unspecified",99213,"Office/outpatient visit, est.",11,103.45,98.09,1,2024,8,6,1,0,2024-08
+C100009467,M112617,1000001022,IM,NY,NY,2024-08-12,J06.9,"Acute upper respiratory infection, unspecified",99213,"Office/outpatient visit, est.",11,104.27,93.51,1,2024,8,0,0,0,2024-08
+C100400671,M111080,1000000201,IM,PA,PA,2024-01-28,M25.562,Pain in left knee,99213,"Office/outpatient visit, est.",11,89.95,82.88,1,2024,1,6,1,0,2024-01
+C100043518,M119222,1000000636,IM,NJ,NJ,2024-07-21,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,69.02,63.83,1,2024,7,6,1,0,2024-07
+C100064821,M114024,1000000783,IM,NY,NY,2024-10-19,J06.9,"Acute upper respiratory infection, unspecified",83036,Hemoglobin A1c,11,30.42,28.16,1,2024,10,5,1,0,2024-10
+C100156491,M116849,1000000620,FAMILY,NJ,NJ,2024-05-01,K21.9,GERD without esophagitis,99213,"Office/outpatient visit, est.",11,97.63,90.72,1,2024,5,2,0,0,2024-05
+C100249978,M111225,1000000724,IM,NY,NY,2024-01-28,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,96.32,89.74,1,2024,1,6,1,0,2024-01
+C100063899,M100972,1000001098,FAMILY,NJ,NJ,2024-08-18,J45.909,"Asthma, uncomplicated",99213,"Office/outpatient visit, est.",11,79.2,65.57,1,2024,8,6,1,0,2024-08

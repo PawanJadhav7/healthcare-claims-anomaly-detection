@@ -1,0 +1,17 @@
+flowchart LR
+  %% ----------------------------
+  %% Healthcare Claims Anomaly Detection (FWA)
+  %% ----------------------------
+
+  A[Claims Source Data\n(Medical Claims, Provider, Member)] --> B[Ingestion\nPython / Pandas / PySpark]
+  B --> C[Raw Zone\nCSV/Parquet\n(data/raw)]
+  C --> D[Profiling & QA\nCompleteness, Validity, Outliers\n(outputs/profiling)]
+  D --> E[Feature Store\nProvider-Month + Member-Month\n(src/feature_store.py)\n(data/features)]
+  E --> F[Anomaly Detection\nPeer Robust Z-scores + Isolation Forest\n(src/anomaly_models.py)]
+  F --> G[Risk Outputs\nRanked Provider/Member Lists\n(outputs/anomaly)]
+  G --> H[BI Dashboards\nSIU / Integrity Triage\nPower BI / Tableau]
+
+  subgraph Explainability
+    X1[Peer Group Benchmarks\nSpecialty + State + Month] --> F
+    X2[Explainable Flags\nHigh Util, Hopping, Weekend, Upcoding Mix] --> H
+  end
