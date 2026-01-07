@@ -1,6 +1,8 @@
 # Data outputs (don’t commit large files)
 data/raw/*.csv
+data/features/*.csv
 outputs/
+# Local junk
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
